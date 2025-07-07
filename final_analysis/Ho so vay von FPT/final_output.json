@@ -1,0 +1,1485 @@
+[
+  {
+    "Tên file": "final_1.4.txt",
+    "Loại tài liệu": "Giấy phép kinh doanh",
+    "Thông tin trích xuất": {
+      "Thông tin doanh nghiệp": [
+        {
+          "Trường": "Tên doanh nghiệp",
+          "Giá trị": "CÔNG TY CỔ PHẦN FPT",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Mã số doanh nghiệp / số đăng ký kinh doanh",
+          "Giá trị": "0101248141",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Ngày cấp",
+          "Giá trị": "26 tháng 04 năm 2021",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Nơi cấp",
+          "Giá trị": "SỞ KẾ HOẠCH VÀ ĐẦU TƯ THÀNH PHỐ HÀ NỘI, PHÒNG ĐĂNG KÝ KINH DOANH",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Loại hình doanh nghiệp",
+          "Giá trị": "CÔNG TY CỔ PHẦN",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Ngành nghề kinh doanh chính",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "Không có số liệu"
+        },
+        {
+          "Trường": "Vốn điều lệ",
+          "Giá trị": "7.839.874.860.000 đồng",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Người đại diện theo pháp luật",
+          "Giá trị": "TRƯƠNG GIA BÌNH (Chức danh: Chủ tịch hội đồng quản trị), NGUYỄN VĂN KHOA (Chức danh: Tổng giám đốc)",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Địa chỉ trụ sở chính",
+          "Giá trị": "Số 10 phố Phạm Văn Bạch, Phường Dịch Vọng, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Chữ ký trưởng phòng đăng ký",
+          "Giá trị": "có Red circular seal (chữ ký) Đỗ Văn Dinh",
+          "Đối chiếu": "4"
+        }
+      ]
+    }
+  },
+  {
+    "Tên file": "final_2.1.txt",
+    "Loại tài liệu": "Điều lệ công ty",
+    "Thông tin trích xuất": {
+      "Thông tin cơ bản": [
+        {
+          "Trường": "Tên công ty",
+          "Giá trị": "Công ty Cổ phần FPT",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Loại hình công ty",
+          "Giá trị": "Công ty Cổ phần",
+          "Đối chiếu": "4"
+        },
+        {
+          "Trường": "Người đại diện theo pháp luật",
+          "Giá trị": "Công ty có hai (02) người đại diện theo pháp luật là Chủ tịch Hội đồng Quản trị (Trương Gia Bình) và Tổng Giám đốc (Không có số liệu về họ tên)",
+          "Đối chiếu": "5"
+        },
+        {
+          "Trường": "Chủ sở hữu / cổ đông sáng lập",
+          "Giá trị": "Nhiều cổ đông sáng lập được liệt kê chi tiết tại Phụ lục 01 (ví dụ: Bộ Tài chính cử người quản lý phần vốn nhà nước là ông: Nguyễn Trường Gia Bình)",
+          "Đối chiếu": "48"
+        },
+        {
+          "Trường": "Vốn điều lệ",
+          "Giá trị": "10.970.265.720.000 đồng",
+          "Đối chiếu": "47"
+        },
+        {
+          "Trường": "Ngày phê duyệt điều lệ",
+          "Giá trị": "08 tháng 04 năm 2021 (sửa đổi, bổ sung Điều lệ)",
+          "Đối chiếu": "43"
+        },
+        {
+          "Trường": "Cơ cấu tổ chức quản lý",
+          "Giá trị": "Đại hội đồng Cổ đông; Hội đồng Quản trị; Ban Kiểm soát; Tổng Giám đốc",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Quyền và nghĩa vụ của các thành viên",
+          "Giá trị": "Được quy định chi tiết cho từng đối tượng (Cổ đông, Thành viên Hội đồng Quản trị, Thành viên Ban Kiểm soát, Tổng Giám đốc và các cán bộ quản lý khác) trong các điều khoản tương ứng của Điều lệ (ví dụ: Điều 11, Điều 26, Điều 37, Điều 38).",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "Vị trí: Chủ tịch Hội đồng Quản trị; Có dấu mộc đỏ tròn: CÓ (CÔNG TY CỔ PHẦN FPT); Chữ ký: (chữ ký); Họ tên: Trương Gia Bình",
+          "Đối chiếu": "44"
+        }
+      ]
+    }
+  },
+  {
+    "Tên file": "final_3.1.txt",
+    "Loại tài liệu": "Báo cáo tài chính",
+    "Thông tin trích xuất": {
+      "Thông tin chung về báo cáo": [
+        {
+          "Trường": "Tên công ty",
+          "Giá trị": "CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Kỳ báo cáo",
+          "Giá trị": "Năm tài chính kết thúc ngày 31 tháng 12 năm 2022",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Ngày phê chuẩn báo cáo tài chính",
+          "Giá trị": "Ngày 3 tháng 3 năm 2023",
+          "Đối chiếu": "4"
+        },
+        {
+          "Trường": "Người phê chuẩn (Tổng Giám đốc)",
+          "Giá trị": "Ngô Mạnh Cường",
+          "Đối chiếu": "4"
+        },
+        {
+          "Trường": "Đơn vị kiểm toán",
+          "Giá trị": "Công ty TNHH PwC (Việt Nam)",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Ý kiến kiểm toán",
+          "Giá trị": "Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, xét trên các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Công ty và công ty con tại ngày 31 tháng 12 năm 2022 cũng như kết quả hoạt động kinh doanh hợp nhất và tình hình lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng ngày nêu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.",
+          "Đối chiếu": "6"
+        },
+        {
+          "Trường": "Kiểm toán viên",
+          "Giá trị": "Lương Thị Anh Tuyết, Nguyễn Đức Anh",
+          "Đối chiếu": "6"
+        },
+        {
+          "Trường": "Số hiệu báo cáo kiểm toán",
+          "Giá trị": "HCM12958",
+          "Đối chiếu": "6"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty (phần trách nhiệm của Tổng Giám Đốc/ Ban điều hành công ty)",
+          "Giá trị": "(chữ ký) Ngô Mạnh Cường, Tổng Giám đốc, có Red circular seal",
+          "Đối chiếu": "4"
+        },
+        {
+          "Trường": "Chữ ký của đại diện bên kế toán (phần ý kiến của Kiểm toán Viên)",
+          "Giá trị": "(chữ ký) Lương Thị Anh Tuyết, (chữ ký) Nguyễn Đức Anh, có Red circular seal của Công ty TNHH PwC (Việt Nam)",
+          "Đối chiếu": "6"
+        }
+      ],
+      "Thông tin về doanh nghiệp": [
+        {
+          "Trường": "Giấy chứng nhận đăng ký doanh nghiệp",
+          "Giá trị": "Số 030504911 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp lần đầu ngày 21 tháng 6 năm 2007, và Giấy chứng nhận đăng ký doanh nghiệp thay đổi gần nhất lần thứ 15 ngày 31 tháng 3 năm 2021.",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Chủ tịch Hội đồng Quản trị",
+          "Giá trị": "Bà Nguyễn Thị Hải",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Tổng Giám đốc",
+          "Giá trị": "Ông Ngô Mạnh Cường",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Người đại diện theo pháp luật",
+          "Giá trị": "Bà Nguyễn Thị Hải (Chủ tịch)",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Trụ sở chính",
+          "Giá trị": "Lô L 29B-31B-33B, Đường Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam.",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Hoạt động chính",
+          "Giá trị": "Cung cấp dịch vụ viễn thông, dịch vụ quảng cáo trực tuyến, dịch vụ truy cập internet, dịch vụ truy cập dữ liệu, dịch vụ xử lý số liệu và thông tin trên mạng internet, dịch vụ trao đổi dữ liệu điện tử, kinh doanh các trò chơi điện tử và các dịch vụ trực tuyến khác.",
+          "Đối chiếu": "11"
+        },
+        {
+          "Trường": "Đơn vị trực thuộc",
+          "Giá trị": "Công ty Cổ phần Dịch vụ Trực tuyến FPT - Chi nhánh Hà Nội (không có tư cách pháp nhân hạch toán phụ thuộc)",
+          "Đối chiếu": "11"
+        },
+        {
+          "Trường": "Mã giao dịch cổ phiếu",
+          "Giá trị": "FOC",
+          "Đối chiếu": "11"
+        },
+        {
+          "Trường": "Năm tài chính",
+          "Giá trị": "Bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12",
+          "Đối chiếu": "12"
+        },
+        {
+          "Trường": "Đơn vị tiền tệ sử dụng",
+          "Giá trị": "Đồng Việt Nam (VND)",
+          "Đối chiếu": "12"
+        }
+      ],
+      "Tóm tắt Bảng cân đối kế toán": [
+        {
+          "Trường": "Tổng tài sản",
+          "Giá trị": "960.318.795.082 VND",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Tài sản ngắn hạn",
+          "Giá trị": "889.615.495.995 VND",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Tài sản dài hạn",
+          "Giá trị": "70.703.299.087 VND",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Tiền và các khoản tương đương tiền",
+          "Giá trị": "166.625.610.807 VND",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Các khoản đầu tư tài chính ngắn hạn",
+          "Giá trị": "610.022.648.379 VND",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Tổng nợ phải trả",
+          "Giá trị": "239.306.024.708 VND",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Nợ ngắn hạn",
+          "Giá trị": "239.306.024.708 VND",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Nợ dài hạn",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Tổng vốn chủ sở hữu",
+          "Giá trị": "721.012.770.374 VND",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Vốn góp của chủ sở hữu",
+          "Giá trị": "184.712.750.000 VND",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Lợi nhuận sau thuế chưa phân phối",
+          "Giá trị": "496.260.963.930 VND",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "(chữ ký) Ngô Mạnh Cường, Tổng Giám đốc, có Red circular seal",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Chữ ký của ban kế toán",
+          "Giá trị": "(chữ ký) Nguyễn Ngọc Duy Sinh, Người lập; (chữ ký) Lã Thị Thanh Hằng, Kế toán trưởng",
+          "Đối chiếu": "8"
+        }
+      ],
+      "Tóm tắt Báo cáo kết quả hoạt động kinh doanh": [
+        {
+          "Trường": "Doanh thu thuần về cung cấp dịch vụ",
+          "Giá trị": "775.428.659.183 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Giá vốn dịch vụ cung cấp",
+          "Giá trị": "309.160.143.162 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Lợi nhuận gộp về cung cấp dịch vụ",
+          "Giá trị": "466.268.516.021 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Lợi nhuận thuần từ hoạt động kinh doanh",
+          "Giá trị": "308.813.211.969 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Tổng lợi nhuận kế toán trước thuế",
+          "Giá trị": "309.259.993.435 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Lợi nhuận sau thuế TNDN",
+          "Giá trị": "247.407.583.747 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Lãi cơ bản trên cổ phiếu",
+          "Giá trị": "12.088 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "(chữ ký) Ngô Mạnh Cường, Tổng Giám đốc, có Red circular seal",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Chữ ký của ban kế toán",
+          "Giá trị": "(chữ ký) Nguyễn Ngọc Duy Sinh, Người lập; (chữ ký) Lã Thị Thanh Hằng, Kế toán trưởng",
+          "Đối chiếu": "9"
+        }
+      ],
+      "Tóm tắt Báo cáo lưu chuyển tiền tệ": [
+        {
+          "Trường": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+          "Giá trị": "168.595.325.299 VND",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+          "Giá trị": "(138.870.108.077) VND",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+          "Giá trị": "(147.358.061.200) VND",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Lưu chuyển tiền thuần trong năm",
+          "Giá trị": "(115.732.843.978) VND",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Tiền và các khoản tương đương tiền cuối năm",
+          "Giá trị": "166.625.610.807 VND",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "(chữ ký) Ngô Mạnh Cường, Tổng Giám đốc, có Red circular seal",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Chữ ký của ban kế toán",
+          "Giá trị": "(chữ ký) Nguyễn Ngọc Duy Sinh, Người lập; (chữ ký) Lã Thị Thanh Hằng, Kế toán trưởng",
+          "Đối chiếu": "10"
+        }
+      ],
+      "Cơ cấu cổ đông và vốn": [
+        {
+          "Trường": "Tổng số lượng cổ phiếu đang lưu hành",
+          "Giá trị": "18.419.884 cổ phiếu",
+          "Đối chiếu": "28"
+        },
+        {
+          "Trường": "Mệnh giá cổ phiếu",
+          "Giá trị": "10.000 Đồng trên một cổ phiếu",
+          "Đối chiếu": "28"
+        },
+        {
+          "Trường": "Cơ cấu sở hữu vốn",
+          "Giá trị": "Công ty Cổ phần Viễn thông FPT: 56,31%; Công ty Cổ phần FPT: 23,86%; Công ty TNHH Dịch vụ Dữ liệu Công nghệ Thông tin Vina: 5,99%; Cổ đông phổ thông khác: 13,64%",
+          "Đối chiếu": "28"
+        }
+      ],
+      "Giao dịch với các bên liên quan": [
+        {
+          "Trường": "Công ty mẹ",
+          "Giá trị": "Công ty Cổ phần Viễn thông FPT",
+          "Đối chiếu": "33"
+        },
+        {
+          "Trường": "Công ty mẹ tối hậu",
+          "Giá trị": "Công ty Cổ phần FPT",
+          "Đối chiếu": "33"
+        },
+        {
+          "Trường": "Tổng doanh thu cung cấp dịch vụ với các bên liên quan năm 2024",
+          "Giá trị": "Không có số liệu cho năm 2024. Số liệu cho năm 2022 là 26.773.273.440 VND",
+          "Đối chiếu": "36"
+        },
+        {
+          "Trường": "Tổng mua hàng hóa và dịch vụ từ các bên liên quan năm 2024",
+          "Giá trị": "Không có số liệu cho năm 2024. Số liệu cho năm 2022 là 20.177.768.052 VND",
+          "Đối chiếu": "36"
+        },
+        {
+          "Trường": "Các khoản chi cho nhân sự quản lý chủ chốt",
+          "Giá trị": "Tổng lương và các quyền lợi gộp khác năm 2022: 4.420.000.000 VND (Nguyễn Thị Hải: 1.820.000.000 VND; Ngô Mạnh Cường: 1.560.000.000 VND; Lã Thị Thanh Hằng: 1.040.000.000 VND)",
+          "Đối chiếu": "37"
+        },
+        {
+          "Trường": "Tổng chi trả cổ tức bằng tiền",
+          "Giá trị": "147.358.061.200 VND",
+          "Đối chiếu": "37"
+        },
+        {
+          "Trường": "Tỷ lệ chia cổ tức bằng tiền mặt",
+          "Giá trị": "Năm 2021: 80% trên mệnh giá cổ phiếu đang lưu hành",
+          "Đối chiếu": "29"
+        }
+      ],
+      "Thông tin ký kết": [
+        {
+          "Trường": "Người lập",
+          "Giá trị": "Nguyễn Ngọc Duy Sinh",
+          "Đối chiếu": "39"
+        },
+        {
+          "Trường": "Kế toán trưởng",
+          "Giá trị": "Lã Thị Thanh Hằng",
+          "Đối chiếu": "39"
+        },
+        {
+          "Trường": "Tổng Giám đốc",
+          "Giá trị": "Ngô Mạnh Cường",
+          "Đối chiếu": "39"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "(chữ ký) Ngô Mạnh Cường, Tổng Giám đốc, có Red circular seal",
+          "Đối chiếu": "39"
+        },
+        {
+          "Trường": "Chữ ký của ban kế toán",
+          "Giá trị": "(chữ ký) Nguyễn Ngọc Duy Sinh, Người lập; (chữ ký) Lã Thị Thanh Hằng, Kế toán trưởng",
+          "Đối chiếu": "39"
+        }
+      ]
+    }
+  },
+  {
+    "Tên file": "final_3.4.txt",
+    "Loại tài liệu": "Báo cáo tài chính",
+    "Thông tin trích xuất": {
+      "Thông tin chung về báo cáo": [
+        {
+          "Trường": "Tên công ty",
+          "Giá trị": "CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Kỳ báo cáo",
+          "Giá trị": "NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Ngày phê chuẩn báo cáo tài chính",
+          "Giá trị": "20 tháng 2 năm 2025",
+          "Đối chiếu": "4"
+        },
+        {
+          "Trường": "Người phê chuẩn (Tổng Giám đốc)",
+          "Giá trị": "Ngô Mạnh Cường",
+          "Đối chiếu": "4"
+        },
+        {
+          "Trường": "Đơn vị kiểm toán",
+          "Giá trị": "Công ty TNHH PwC (Việt Nam)",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Ý kiến kiểm toán",
+          "Giá trị": "Theo ý kiến của chúng tôi, báo cáo tài chính đã phản ánh trung thực và hợp lý, xét trên các khía cạnh trọng yếu, tình hình tài chính của Công ty tại ngày 31 tháng 12 năm 2024 cũng như kết quả hoạt động kinh doanh, và tình hình lưu chuyển tiền tệ của Công ty cho năm tài chính kết thúc cùng ngày nêu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính.",
+          "Đối chiếu": "6"
+        },
+        {
+          "Trường": "Kiểm toán viên",
+          "Giá trị": "Trần Khắc Thể, Nguyễn Đức Anh",
+          "Đối chiếu": "6"
+        },
+        {
+          "Trường": "Số hiệu báo cáo kiểm toán",
+          "Giá trị": "HCM16150",
+          "Đối chiếu": "6"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty (phần trách nhiệm của Tổng Giám Đốc/ Ban điều hành công ty)",
+          "Giá trị": "Chữ ký (có Red circular seal: CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT Online), Ngô Mạnh Cường, Tổng Giám đốc",
+          "Đối chiếu": "4"
+        },
+        {
+          "Trường": "Chữ ký của đại diện bên kế toán (phần ý kiến của Kiểm toán Viên)",
+          "Giá trị": "Chữ ký (có Red circular seal: CÔNG TY TNHH PwC (VIỆT NAM) MS:0100723826 CT. T.N.H.H), Trần Khắc Thể, Số Giấy CN ĐKHN kiểm toán: 2043-2023-006-1; Chữ ký, Nguyễn Đức Anh, Số Giấy CN ĐKHN kiểm toán: 4595-2023-006-1",
+          "Đối chiếu": "6"
+        }
+      ],
+      "Thông tin về doanh nghiệp": [
+        {
+          "Trường": "Giấy chứng nhận đăng ký doanh nghiệp",
+          "Giá trị": "Số 0305045911 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp lần đầu ngày 21 tháng 6 năm 2007. Giấy chứng nhận đăng ký doanh nghiệp thay đổi gần nhất (lần thứ 16) được cấp ngày 6 tháng 11 năm 2023.",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Chủ tịch Hội đồng Quản trị",
+          "Giá trị": "Bà Nguyễn Thị Hải",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Tổng Giám đốc",
+          "Giá trị": "Ông Ngô Mạnh Cường",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Người đại diện theo pháp luật",
+          "Giá trị": "Bà Nguyễn Thị Hải",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Trụ sở chính",
+          "Giá trị": "Lô L 29B-31B-33B, Đường Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam.",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Hoạt động chính",
+          "Giá trị": "cung cấp dịch vụ viễn thông, dịch vụ quảng cáo trực tuyến, dịch vụ truy cập internet, dịch vụ truy cập dữ liệu, dịch vụ xử lý số liệu và thông tin trên mạng internet, dịch vụ trao đổi dữ liệu điện tử; và các dịch vụ trực tuyến khác.",
+          "Đối chiếu": "11"
+        },
+        {
+          "Trường": "Đơn vị trực thuộc",
+          "Giá trị": "1 đơn vị trực thuộc không có tư cách pháp nhân hạch toán phụ thuộc là Công ty Cổ phần Dịch vụ Trực tuyến FPT – Chi nhánh Hà Nội, hoạt động tại tòa nhà FPT, Phố Phạm Văn Bạch, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam.",
+          "Đối chiếu": "11"
+        },
+        {
+          "Trường": "Mã giao dịch cổ phiếu",
+          "Giá trị": "FOC",
+          "Đối chiếu": "11"
+        },
+        {
+          "Trường": "Năm tài chính",
+          "Giá trị": "bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.",
+          "Đối chiếu": "12"
+        },
+        {
+          "Trường": "Đơn vị tiền tệ sử dụng",
+          "Giá trị": "Đồng Việt Nam (“VND” hoặc “Đồng”)",
+          "Đối chiếu": "12"
+        }
+      ],
+      "Tóm tắt Bảng cân đối kế toán": [
+        {
+          "Trường": "Tổng tài sản",
+          "Giá trị": "979.247.955.307",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Tài sản ngắn hạn",
+          "Giá trị": "928.372.507.103",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Tài sản dài hạn",
+          "Giá trị": "50.875.448.204",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Tiền và các khoản tương đương tiền",
+          "Giá trị": "53.250.437.627",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Các khoản đầu tư tài chính ngắn hạn",
+          "Giá trị": "763.020.228.533",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Tổng nợ phải trả",
+          "Giá trị": "165.594.185.154",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Nợ ngắn hạn",
+          "Giá trị": "164.656.498.931",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Nợ dài hạn",
+          "Giá trị": "937.686.214",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Tổng vốn chủ sở hữu",
+          "Giá trị": "813.653.770.162",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Vốn góp của chủ sở hữu",
+          "Giá trị": "184.712.750.000",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Lợi nhuận sau thuế chưa phân phối",
+          "Giá trị": "593.453.351.517",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "Chữ ký (có Red circular seal: CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT Online), Ngô Mạnh Cường, Tổng giám đốc",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Chữ ký của ban kế toán",
+          "Giá trị": "Chữ ký, Nguyễn Ngọc Duy Sinh, Người lập; Chữ ký, Lã Thị Thanh Hằng, Kế toán trưởng",
+          "Đối chiếu": "8"
+        }
+      ],
+      "Tóm tắt Báo cáo kết quả hoạt động kinh doanh": [
+        {
+          "Trường": "Doanh thu thuần về cung cấp dịch vụ",
+          "Giá trị": "704.503.127.877",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Giá vốn dịch vụ cung cấp",
+          "Giá trị": "385.211.844.156",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Lợi nhuận gộp về cung cấp dịch vụ",
+          "Giá trị": "319.291.283.721",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Lợi nhuận thuần từ hoạt động kinh doanh",
+          "Giá trị": "167.931.166.746",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Tổng lợi nhuận kế toán trước thuế",
+          "Giá trị": "167.464.619.789",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Lợi nhuận sau thuế TNDN",
+          "Giá trị": "132.828.034.428",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Lãi cơ bản trên cổ phiếu",
+          "Giá trị": "6.490",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "Chữ ký (có Red circular seal: CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT Online), Ngô Mạnh Cường, Tổng giám đốc",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Chữ ký của ban kế toán",
+          "Giá trị": "Chữ ký, Nguyễn Ngọc Duy Sinh, Người lập; Chữ ký, Lã Thị Thanh Hằng, Kế toán trưởng",
+          "Đối chiếu": "9"
+        }
+      ],
+      "Tóm tắt Báo cáo lưu chuyển tiền tệ": [
+        {
+          "Trường": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+          "Giá trị": "78.648.210.443",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+          "Giá trị": "(65.071.339.763)",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+          "Giá trị": "(36.839.515.300)",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Lưu chuyển tiền thuần trong năm",
+          "Giá trị": "(23.262.644.620)",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Tiền và các khoản tương đương tiền cuối năm",
+          "Giá trị": "53.250.437.627",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "Chữ ký (có Red circular seal: CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT Online), Ngô Mạnh Cường, Tổng giám đốc",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Chữ ký của ban kế toán",
+          "Giá trị": "Chữ ký, Nguyễn Ngọc Duy Sinh, Người lập; Chữ ký, Lã Thị Thanh Hằng, Kế toán trưởng",
+          "Đối chiếu": "10"
+        }
+      ],
+      "Cơ cấu cổ đông và vốn": [
+        {
+          "Trường": "Tổng số lượng cổ phiếu đang lưu hành",
+          "Giá trị": "18.419.884",
+          "Đối chiếu": "25"
+        },
+        {
+          "Trường": "Mệnh giá cổ phiếu",
+          "Giá trị": "10.000 Đồng trên một cổ phiếu",
+          "Đối chiếu": "26"
+        },
+        {
+          "Trường": "Cơ cấu sở hữu vốn",
+          "Giá trị": "Công ty Cổ phần Viễn thông FPT: 56,51%; Công ty Cổ phần FPT: 23,86%; Các cổ đông khác: 19,63%",
+          "Đối chiếu": "26"
+        }
+      ],
+      "Giao dịch với các bên liên quan": [
+        {
+          "Trường": "Công ty mẹ",
+          "Giá trị": "Công ty Cổ phần Viễn thông FPT",
+          "Đối chiếu": "32"
+        },
+        {
+          "Trường": "Công ty mẹ tối hậu",
+          "Giá trị": "Công ty Cổ phần FPT",
+          "Đối chiếu": "32"
+        },
+        {
+          "Trường": "Tổng doanh thu cung cấp dịch vụ với các bên liên quan năm 2024",
+          "Giá trị": "30.378.400.000",
+          "Đối chiếu": "33"
+        },
+        {
+          "Trường": "Tổng mua hàng hóa và dịch vụ từ các bên liên quan năm 2024",
+          "Giá trị": "25.804.168.131",
+          "Đối chiếu": "33"
+        },
+        {
+          "Trường": "Các khoản chi cho nhân sự quản lý chủ chốt",
+          "Giá trị": "4.146.000.000",
+          "Đối chiếu": "36"
+        },
+        {
+          "Trường": "Tổng chi trả cổ tức bằng tiền",
+          "Giá trị": "36.839.515.300",
+          "Đối chiếu": "36"
+        },
+        {
+          "Trường": "Tỷ lệ chia cổ tức bằng tiền mặt",
+          "Giá trị": "20% trên mệnh giá cổ phiếu đang lưu hành (cho năm 2023)",
+          "Đối chiếu": "29"
+        }
+      ],
+      "Thông tin ký kết": [
+        {
+          "Trường": "Người lập",
+          "Giá trị": "Chữ ký, Nguyễn Ngọc Duy Sinh, Người lập",
+          "Đối chiếu": "38"
+        },
+        {
+          "Trường": "Kế toán trưởng",
+          "Giá trị": "Chữ ký, Lã Thị Thanh Hằng, Kế toán trưởng",
+          "Đối chiếu": "38"
+        },
+        {
+          "Trường": "Tổng Giám đốc",
+          "Giá trị": "Chữ ký (có Red circular seal: CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT Online), Ngô Mạnh Cường, Tổng Giám đốc",
+          "Đối chiếu": "38"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "Chữ ký (có Red circular seal: CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT Online), Ngô Mạnh Cường, Tổng Giám đốc",
+          "Đối chiếu": "38"
+        },
+        {
+          "Trường": "Chữ ký của ban kế toán",
+          "Giá trị": "Chữ ký, Nguyễn Ngọc Duy Sinh, Người lập; Chữ ký, Lã Thị Thanh Hằng, Kế toán trưởng",
+          "Đối chiếu": "38"
+        }
+      ]
+    }
+  },
+  {
+    "Tên file": "final_3.5.txt",
+    "Loại tài liệu": "Báo cáo tài chính",
+    "Thông tin trích xuất": {
+      "Thông tin chung về báo cáo": [
+        {
+          "Trường": "Tên công ty",
+          "Giá trị": "CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Kỳ báo cáo",
+          "Giá trị": "Năm tài chính kết thúc ngày 31 tháng 12 năm 2023",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Ngày phê chuẩn báo cáo tài chính",
+          "Giá trị": "28 tháng 2 năm 2024",
+          "Đối chiếu": "4"
+        },
+        {
+          "Trường": "Người phê chuẩn (Tổng Giám đốc)",
+          "Giá trị": "Ngô Mạnh Cường",
+          "Đối chiếu": "4"
+        },
+        {
+          "Trường": "Đơn vị kiểm toán",
+          "Giá trị": "Công ty TNHH PwC (Việt Nam)",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Ý kiến kiểm toán",
+          "Giá trị": "Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, xét trên các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Công ty và công ty con tại ngày 31 tháng 12 năm 2023 cũng như kết quả hoạt động kinh doanh hợp nhất, và tình hình lưu chuyển tiền tệ hợp nhất của Công ty và công ty con cho năm tài chính kết thúc cùng ngày nêu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.",
+          "Đối chiếu": "6"
+        },
+        {
+          "Trường": "Kiểm toán viên",
+          "Giá trị": "Trần Khắc Thế; Nguyễn Đức Anh",
+          "Đối chiếu": "6"
+        },
+        {
+          "Trường": "Số hiệu báo cáo kiểm toán",
+          "Giá trị": "HCM14497",
+          "Đối chiếu": "6"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty (phần trách nhiệm của Tổng Giám Đốc/ Ban điều hành công ty)",
+          "Giá trị": "Ngô Mạnh Cường (chữ ký), Tổng Giám đốc, có Red circular seal: CÔNG TY CP DỊCH VỤ TRỰC TUYẾN FPT Online",
+          "Đối chiếu": "4"
+        },
+        {
+          "Trường": "Chữ ký của đại diện bên kế toán (phần ý kiến của Kiểm toán Viên)",
+          "Giá trị": "Trần Khắc Thế (chữ ký), Chữ ký được ủy quyền, có Red circular seal: CÔNG TY TNHH PwC (VIỆT NAM) Mã số D.N:0100157406-C.T.N.H.H * QUẬN 1 - TP.HỒ CHÍ MINH; Nguyễn Đức Anh (chữ ký)",
+          "Đối chiếu": "6"
+        }
+      ],
+      "Thông tin về doanh nghiệp": [
+        {
+          "Trường": "Giấy chứng nhận đăng ký doanh nghiệp",
+          "Giá trị": "Số 030504911 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp lần đầu ngày 21 tháng 8 năm 2007. Giấy chứng nhận đăng ký doanh nghiệp thay đổi gần nhất (lần thứ 15) được cấp ngày 31 tháng 3 năm 2021.",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Chủ tịch Hội đồng Quản trị",
+          "Giá trị": "Bà Nguyễn Thị Hải",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Tổng Giám đốc",
+          "Giá trị": "Ông Ngô Mạnh Cường",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Người đại diện theo pháp luật",
+          "Giá trị": "Bà Nguyễn Thị Hải",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Trụ sở chính",
+          "Giá trị": "Lô L 29B-31B-33B, Đường Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+          "Đối chiếu": "3"
+        },
+        {
+          "Trường": "Hoạt động chính",
+          "Giá trị": "cung cấp dịch vụ viễn thông, dịch vụ quảng cáo trực tuyến, dịch vụ truy cập internet, dịch vụ truy cập dữ liệu, dịch vụ xử lý số liệu và thông tin trên mạng internet, dịch vụ trao đổi dữ liệu điện tử, và các dịch vụ trực tuyến khác.",
+          "Đối chiếu": "11"
+        },
+        {
+          "Trường": "Đơn vị trực thuộc",
+          "Giá trị": "1 đơn vị trực thuộc không có tư cách pháp nhân hạch toán phụ thuộc là Công ty Cổ phần Dịch vụ Trực tuyến FPT – Chi nhánh Hà Nội, hoạt động tại tòa nhà FPT, Phố Phạm Văn Bạch, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam.",
+          "Đối chiếu": "11"
+        },
+        {
+          "Trường": "Mã giao dịch cổ phiếu",
+          "Giá trị": "FOC",
+          "Đối chiếu": "11"
+        },
+        {
+          "Trường": "Năm tài chính",
+          "Giá trị": "1 tháng 1 đến ngày 31 tháng 12",
+          "Đối chiếu": "12"
+        },
+        {
+          "Trường": "Đơn vị tiền tệ sử dụng",
+          "Giá trị": "Đồng Việt Nam (“VND” hoặc “Đồng”)",
+          "Đối chiếu": "12"
+        }
+      ],
+      "Tóm tắt Bảng cân đối kế toán": [
+        {
+          "Trường": "Tổng tài sản",
+          "Giá trị": "905.385.408.757 VND",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Tài sản ngắn hạn",
+          "Giá trị": "844.257.145.260 VND",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Tài sản dài hạn",
+          "Giá trị": "61.128.263.497 VND",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Tiền và các khoản tương đương tiền",
+          "Giá trị": "73.235.164.925 VND",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Các khoản đầu tư tài chính ngắn hạn",
+          "Giá trị": "664.944.688.963 VND",
+          "Đối chiếu": "7"
+        },
+        {
+          "Trường": "Tổng nợ phải trả",
+          "Giá trị": "174.437.101.580 VND",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Nợ ngắn hạn",
+          "Giá trị": "174.154.998.830 VND",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Nợ dài hạn",
+          "Giá trị": "282.102.750 VND",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Tổng vốn chủ sở hữu",
+          "Giá trị": "730.948.307.177 VND",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Vốn góp của chủ sở hữu",
+          "Giá trị": "184.712.750.000 VND",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Lợi nhuận sau thuế chưa phân phối",
+          "Giá trị": "510.747.888.532 VND",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "Ngô Mạnh Cường (chữ ký), Tổng Giám đốc, có Red circular seal: CÔNG TY CP DỊCH VỤ TRỰC TUYẾN FPT Online",
+          "Đối chiếu": "8"
+        },
+        {
+          "Trường": "Chữ ký của ban kế toán",
+          "Giá trị": "Nguyễn Ngọc Duy Sinh (chữ ký), Người lập; Lã Thị Thanh Hằng (chữ ký), Kế toán trưởng",
+          "Đối chiếu": "8"
+        }
+      ],
+      "Tóm tắt Báo cáo kết quả hoạt động kinh doanh": [
+        {
+          "Trường": "Doanh thu thuần về cung cấp dịch vụ",
+          "Giá trị": "619.958.476.388 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Giá vốn dịch vụ cung cấp",
+          "Giá trị": "352.180.807.243 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Lợi nhuận gộp về cung cấp dịch vụ",
+          "Giá trị": "267.777.669.145 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Lợi nhuận thuần từ hoạt động kinh doanh",
+          "Giá trị": "149.425.817.706 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Tổng lợi nhuận kế toán trước thuế",
+          "Giá trị": "147.093.901.916 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Lợi nhuận sau thuế TNDN",
+          "Giá trị": "117.385.176.556 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Lãi cơ bản trên cổ phiếu",
+          "Giá trị": "5.786 VND",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "Ngô Mạnh Cường (chữ ký), Tổng Giám đốc, có Red circular seal: CÔNG TY CP DỊCH VỤ TRỰC TUYẾN FPT Online",
+          "Đối chiếu": "9"
+        },
+        {
+          "Trường": "Chữ ký của ban kế toán",
+          "Giá trị": "Nguyễn Ngọc Duy Sinh (chữ ký), Người lập; Lã Thị Thanh Hằng (chữ ký), Kế toán trưởng",
+          "Đối chiếu": "9"
+        }
+      ],
+      "Tóm tắt Báo cáo lưu chuyển tiền tệ": [
+        {
+          "Trường": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+          "Giá trị": "1.684.234.774 VND",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+          "Giá trị": "(3.294.859.822) VND",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+          "Giá trị": "(93.606.080.825) VND",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Lưu chuyển tiền thuần trong năm",
+          "Giá trị": "(95.216.705.873) VND",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Tiền và các khoản tương đương tiền cuối năm",
+          "Giá trị": "73.235.164.925 VND",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "Ngô Mạnh Cường (chữ ký), Tổng Giám đốc, có Red circular seal: CÔNG TY CP DỊCH VỤ TRỰC TUYẾN FPT Online",
+          "Đối chiếu": "10"
+        },
+        {
+          "Trường": "Chữ ký của ban kế toán",
+          "Giá trị": "Nguyễn Ngọc Duy Sinh (chữ ký), Người lập; Lã Thị Thanh Hằng (chữ ký), Kế toán trưởng",
+          "Đối chiếu": "10"
+        }
+      ],
+      "Cơ cấu cổ đông và vốn": [
+        {
+          "Trường": "Tổng số lượng cổ phiếu đang lưu hành",
+          "Giá trị": "18.419.884 cổ phiếu",
+          "Đối chiếu": "30"
+        },
+        {
+          "Trường": "Mệnh giá cổ phiếu",
+          "Giá trị": "10.000 Đồng trên một cổ phiếu",
+          "Đối chiếu": "30"
+        },
+        {
+          "Trường": "Cơ cấu sở hữu vốn",
+          "Giá trị": "Công ty Cổ phần Viễn thông FPT: 56,51%; Công ty Cổ phần FPT: 23,86%; Công ty Cổ phần dịch vụ Dữ liệu Công nghệ Thông tin Vina: 4,65%; Cổ đông phổ thông khác: 14,98%",
+          "Đối chiếu": "30"
+        }
+      ],
+      "Giao dịch với các bên liên quan": [
+        {
+          "Trường": "Công ty mẹ",
+          "Giá trị": "Công ty Cổ phần Viễn thông FPT",
+          "Đối chiếu": "38"
+        },
+        {
+          "Trường": "Công ty mẹ tối hậu",
+          "Giá trị": "Công ty Cổ phần FPT",
+          "Đối chiếu": "38"
+        },
+        {
+          "Trường": "Tổng doanh thu cung cấp dịch vụ với các bên liên quan năm 2024",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "Không có số liệu"
+        },
+        {
+          "Trường": "Tổng mua hàng hóa và dịch vụ từ các bên liên quan năm 2024",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "Không có số liệu"
+        },
+        {
+          "Trường": "Các khoản chi cho nhân sự quản lý chủ chốt",
+          "Giá trị": "3.965.000.000 VND",
+          "Đối chiếu": "40"
+        },
+        {
+          "Trường": "Tổng chi trả cổ tức bằng tiền",
+          "Giá trị": "92.098.788.250 VND",
+          "Đối chiếu": "40"
+        },
+        {
+          "Trường": "Tỷ lệ chia cổ tức bằng tiền mặt",
+          "Giá trị": "50% trên mệnh giá cổ phiếu đang lưu hành",
+          "Đối chiếu": "31"
+        }
+      ],
+      "Thông tin ký kết": [
+        {
+          "Trường": "Người lập",
+          "Giá trị": "Nguyễn Ngọc Duy Sinh",
+          "Đối chiếu": "40"
+        },
+        {
+          "Trường": "Kế toán trưởng",
+          "Giá trị": "Lã Thị Thanh Hằng",
+          "Đối chiếu": "40"
+        },
+        {
+          "Trường": "Tổng Giám đốc",
+          "Giá trị": "Ngô Mạnh Cường",
+          "Đối chiếu": "40"
+        },
+        {
+          "Trường": "Chữ ký của người đại diện công ty",
+          "Giá trị": "Ngô Mạnh Cường (chữ ký), Tổng Giám đốc, có Red circular seal: CÔNG TY CP DV TRỰC TUYẾN FPT",
+          "Đối chiếu": "40"
+        },
+        {
+          "Trường": "Chữ ký của ban kế toán",
+          "Giá trị": "Nguyễn Ngọc Duy Sinh (chữ ký), Người lập; Lã Thị Thanh Hằng (chữ ký), Kế toán trưởng, có Red circular seal: CÔNG TY CP DV TRỰC TUYẾN FPT, FPT Online",
+          "Đối chiếu": "40"
+        }
+      ]
+    }
+  },
+  {
+    "Tên file": "final_4.2.txt",
+    "Loại tài liệu": "Sao kê ngân hàng",
+    "Thông tin trích xuất": {
+      "Thông tin sao kê": [
+        {
+          "Trường": "Tên chủ tài khoản",
+          "Giá trị": "CÔNG TY FPT",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Số tài khoản",
+          "Giá trị": "012345678900",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Ngân hàng",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Kỳ sao kê (từ ngày, đến ngày)",
+          "Giá trị": "01/05/2025 - 01/06/2025",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Tổng số dư đầu kỳ",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Tổng số dư cuối kỳ",
+          "Giá trị": "8,440,000,000",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Tổng số tiền vào",
+          "Giá trị": "5,090,000,000",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Tổng số tiền ra",
+          "Giá trị": "6,650,000,000",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Các giao dịch lớn (trên X triệu, nếu có)",
+          "Giá trị": "02/05/2025: Ghi Nợ 1,200,000,000 (Chi tra nha cung cap); 04/05/2025: Ghi Có 2,000,000,000 (Thu tien hop dong 012); 06/05/2025: Ghi Nợ 3,500,000,000 (Thanh toan luong thang 4); 12/05/2025: Ghi Có 1,800,000,000 (Thu tien dich vu CNTT); 18/05/2025: Ghi Có 1,200,000,000 (Thu tien du an A)",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Ngày in sao kê",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "1"
+        }
+      ]
+    }
+  },
+  {
+    "Tên file": "final_4.3.txt",
+    "Loại tài liệu": "Sao kê ngân hàng",
+    "Thông tin trích xuất": {
+      "Thông tin sao kê": [
+        {
+          "Trường": "Tên chủ tài khoản",
+          "Giá trị": "CÔNG TY FPT",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Số tài khoản",
+          "Giá trị": "012345678900",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Ngân hàng",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Kỳ sao kê (từ ngày)",
+          "Giá trị": "01/05/2025",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Kỳ sao kê (đến ngày)",
+          "Giá trị": "01/06/2025",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Tổng số dư đầu kỳ",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Tổng số dư cuối kỳ",
+          "Giá trị": "7,500,000,000",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Tổng số tiền vào",
+          "Giá trị": "3,950,000,000",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Tổng số tiền ra",
+          "Giá trị": "8,450,000,000",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Các giao dịch lớn (trên 1 tỷ VND)",
+          "Giá trị": [
+            {
+              "Ngày": "03/06/2025",
+              "Nội dung": "Thu tien du an B",
+              "Số tiền": "1,500,000,000",
+              "Loại": "Ghi Nợ"
+            },
+            {
+              "Ngày": "06/06/2025",
+              "Nội dung": "Chi phi nhan su",
+              "Số tiền": "2,200,000,000",
+              "Loại": "Ghi Nợ"
+            },
+            {
+              "Ngày": "25/06/2025",
+              "Nội dung": "Thu tu khach hang C",
+              "Số tiền": "2,000,000,000",
+              "Loại": "Ghi Có"
+            },
+            {
+              "Ngày": "01/07/2025",
+              "Nội dung": "Tra luong nhan vien",
+              "Số tiền": "3,000,000,000",
+              "Loại": "Ghi Nợ"
+            },
+            {
+              "Ngày": "15/07/2025",
+              "Nội dung": "Thu du an E",
+              "Số tiền": "1,800,000,000",
+              "Loại": "Ghi Có"
+            }
+          ],
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Ngày in sao kê",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "1"
+        }
+      ]
+    }
+  },
+  {
+    "Tên file": "final_5.2.txt",
+    "Loại tài liệu": "Hợp đồng kinh tế",
+    "Thông tin trích xuất": {
+      "Thông tin hợp đồng": [
+        {
+          "Trường": "Số hợp đồng",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "Không có số liệu"
+        },
+        {
+          "Trường": "Tên hợp đồng",
+          "Giá trị": "HỢP ĐỒNG ĐẠI LÝ CUNG CẤP DỊCH VỤ INTERNET CÔNG CỘNG VÀ GIẢI PHÁP NHÀ THÔNG MINH",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Ngày ký kết",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "Không có số liệu"
+        },
+        {
+          "Trường": "Bên A (Tên)",
+          "Giá trị": "CÔNG TY CỔ PHẦN VIỄN THÔNG FPT (FPT TELECOM)",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Bên A (Đại diện)",
+          "Giá trị": "Nguyễn Văn A",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Bên A (Chức vụ)",
+          "Giá trị": "Giám đốc Chi nhánh Hà Nội",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Bên B (Tên)",
+          "Giá trị": "CÔNG TY TNHH ABC",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Bên B (Đại diện)",
+          "Giá trị": "Trần Thị B",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Bên B (Chức vụ)",
+          "Giá trị": "Giám đốc",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Giá trị hợp đồng",
+          "Giá trị": "10.000.000.000 VNĐ (Mười tỷ đồng chẵn)",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Thời hạn thực hiện",
+          "Giá trị": "Thời gian bắt đầu triển khai: 01/07/2025; Thời gian hoàn thành dự kiến: 30/09/2025",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Phương thức thanh toán",
+          "Giá trị": "Chuyển khoản vào tài khoản của Bên A",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Trách nhiệm và nghĩa vụ các bên",
+          "Giá trị": "Bên A cam kết cung cấp thiết bị và dịch vụ đúng tiêu chuẩn, chất lượng, đúng thời hạn. Bên B cam kết thanh toán đầy đủ, đúng hạn theo quy định.",
+          "Đối chiếu": "2"
+        },
+        {
+          "Trường": "Điều khoản phạt, bồi thường",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "Không có số liệu"
+        },
+        {
+          "Trường": "Điều khoản giải quyết tranh chấp",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "Không có số liệu"
+        }
+      ]
+    }
+  },
+  {
+    "Tên file": "final_7.1.txt",
+    "Loại tài liệu": "Hồ sơ tài sản",
+    "Thông tin trích xuất": {
+      "Thông tin tài sản": [
+        {
+          "Trường": "Loại tài sản",
+          "Giá trị": "Ô tô",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Tên tài sản",
+          "Giá trị": "Ô tô - FPT001",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Giá trị định giá",
+          "Giá trị": "50.000.000.000 VND",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Năm mua / sản xuất",
+          "Giá trị": "2025",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Tình trạng pháp lý (sổ đỏ, hóa đơn, v.v.)",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Giấy tờ sở hữu (số hiệu, ngày cấp, nơi cấp)",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Chủ sở hữu",
+          "Giá trị": "Công ty FPT",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Vị trí / địa chỉ tài sản",
+          "Giá trị": "Số 123 đường XYZ, P.ABC, Q.1, TP.HCM",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Mục đích sử dụng",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "1"
+        }
+      ]
+    }
+  },
+  {
+    "Tên file": "imageupload_chunk1.txt",
+    "Loại tài liệu": "CCCD",
+    "Thông tin trích xuất": {
+      "Thông tin cá nhân": [
+        {
+          "Trường": "Họ và tên",
+          "Giá trị": "TRƯƠNG ANH NGỌC",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Ngày sinh",
+          "Giá trị": "20/12/2003",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Giới tính",
+          "Giá trị": "Nam",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Quốc tịch",
+          "Giá trị": "Việt Nam",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Số CCCD",
+          "Giá trị": "######",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Ngày cấp",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Nơi cấp",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Quê quán",
+          "Giá trị": "Hương Xuân, Hương Khê, Hà Tĩnh",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Nơi thường trú",
+          "Giá trị": "Thị trấn Hương Khê, Hương Khê, Hà Tĩnh",
+          "Đối chiếu": "1"
+        },
+        {
+          "Trường": "Chức vụ tại doanh nghiệp",
+          "Giá trị": "Không có số liệu",
+          "Đối chiếu": "1"
+        }
+      ]
+    }
+  }
+]

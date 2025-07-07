@@ -1,0 +1,16 @@
+[
+  {
+    "username": "user4",
+    "password": "pass4",
+    "fullname": "Đinh Vũ Hà",
+    "avatar": "https://i.pinimg.com/1200x/bb/14/9e/bb149e57b6cb502bbda6e633372e217d.jpg",
+    "paperNumber": 30
+  },
+  {
+    "username": "user1",
+    "password": "123456",
+    "fullname": "Trương Anh Ngọc",
+    "avatar": "https://m.yodycdn.com/blog/tin-chuan-chua-anh-yody-8-f312995e-44c2-4aaa-9853-5e1a0d00b294.jpg",
+    "paperNumber": 12
+  }
+]

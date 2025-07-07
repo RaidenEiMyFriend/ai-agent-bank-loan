@@ -1,0 +1,67 @@
+===== PAGE 1 =====
+
+| STT | Tháng | Vốn điều lệ (đồng) | Số cổ phần | Ghi chú |
+| :--- | :--- | :--- | :--- | :--- |
+| 14 | 05/2010 | 1.916.659.080.000 | 191.665.908 | Tăng vốn từ kết quả kinh doanh năm 2009 thông qua trả cổ tức bằng cổ phiếu theo tỉ lệ 3:1. |
+| 15 | 06/2010 | 1.934.805.170.000 | 193.480.517 | Tăng vốn thông qua phát hành cổ phần phổ thông thưởng cho cán bộ nhân viên có thành tích đóng góp trong năm 2009 và cổ phần phổ thông cho cán bộ nhân viên. |
+| 16 | 08/2011 | 2.133.110.660.000 | 213.311.066 | Tăng vốn thông qua phát hành cổ phiếu của Công ty Cổ phần FPT để thực hiện hoán đổi cổ phiếu cho các cổ đông hiện hữu của Công ty Cổ phần Hệ thống thông tin FPT, Công ty Cổ phần Phần mềm FPT và Công ty Cổ phần Thương mại FPT nhằm tái cấu trúc Tập đoàn. |
+| 17 | 09/2011 | 2.160.826.760.000 | 216.082.676 | Tăng vốn thông qua phát hành cổ phần phổ thông thưởng cho cán bộ nhân viên có thành tích đóng góp trong năm 2010. |
+| 18 | 05/2012 | 2.700.859.340.000 | 270.085.934 | Tăng vốn từ kết quả kinh doanh năm 2011 thông qua trả cổ tức bằng cổ phiếu theo tỉ lệ 4:1. |
+| 19 | 06/2012 | 2.738.488.330.000 | 273.848.833 | Tăng vốn thông qua phát hành cổ phần phổ thông thưởng cho cán bộ nhân viên có thành tích đóng góp trong năm 2011 và cổ phần phổ thông cho cán bộ nhân viên. |
+| 20 | 06/2013 | 2.752.017.550.000 | 275.201.755 | Tăng vốn thông qua phát hành cổ phiếu cho cán bộ nhân viên có thành tích đóng góp trong năm 2012. |
+| 21 | 05/2014 | 3.439.766.000.000 | 343.976.600 | Tăng vốn từ kết quả kinh doanh năm 2013 thông qua trả cổ tức bằng cổ phiếu theo tỉ lệ 4:1. |
+| 22 | 04/2015 | 3.456.959.170.000 | 345.695.917 | Tăng vốn thông qua phát hành cổ phiếu cho cán bộ nhân viên có thành tích đóng góp trong năm 2014. |
+| 23 | 06/2015 | 3.975.316.400.000 | 397.531.640 | Tăng vốn từ kết quả kinh doanh năm 2014 thông qua trả cổ tức bằng cổ phiếu theo tỉ lệ 15%. |
+| 24 | 04/2016 | 3.995.184.690.000 | 399.518.469 | Tăng vốn thông qua phát hành cổ phiếu |
+
+46
+
+===== PAGE 2 =====
+
+| STT | Tháng | Vốn điều lệ (đồng) | Số cổ phần | Ghi chú |
+| :--- | :--- | :--- | :--- | :--- |
+| | | | | cho cán bộ nhân viên có thành tích đóng góp trong năm 2015. |
+| 25 | 06/2016 | 4.594.266.840.000 | 459.426.684 | Tăng vốn từ kết quả kinh doanh năm 2015 thông qua trả cổ tức bằng cổ phiếu theo tỉ lệ 15%. |
+| 26 | 04/2017 | 4.617.230.540.000 | 461.723.054 | Tăng vốn thông qua phát hành cổ phiếu cho cán bộ nhân viên có thành tích đóng góp trong năm 2016. |
+| 27 | 06/2017 | 5.309.611.050.000 | 530.961.105 | Tăng vốn từ kết quả kinh doanh năm 2016 thông qua trả cổ tức bằng cổ phiếu theo tỉ lệ 15%. |
+| 28 | 04/2018 | 5.336.156.610.000 | 533.615.661 | Tăng vốn thông qua phát hành cổ phiếu cho cán bộ nhân viên có thành tích đóng góp trong năm 2017. |
+| 29 | 06/2018 | 6.136.367.720.000 | 613.636.772 | Tăng vốn từ kết quả kinh doanh năm 2017 thông qua trả cổ tức bằng cổ phiếu theo tỉ lệ 15%. |
+| 30 | 04/2019 | 6.167.039.720.000 | 616.703.972 | Tăng vốn thông qua phát hành cổ phiếu cho cán bộ nhân viên có thành tích đóng góp trong năm 2018. |
+| 31 | 06/2019 | 6.783.586.880.000 | 678.358.688 | Tăng vốn từ kết quả kinh doanh năm 2018 thông qua trả cổ tức bằng cổ phiếu theo tỉ lệ 10%. |
+| 32 | 04/2020 | 6.817.504.780.000 | 681.750.478 | Tăng vốn thông qua phát hành cổ phiếu cho cán bộ nhân viên có thành tích đóng góp trong năm 2019. |
+| 33 | 06/2020 | 7.839.874.860.000 | 783.987.486 | Tăng vốn từ kết quả kinh doanh năm 2019 thông qua trả cổ tức bằng cổ phiếu theo tỉ lệ 15%. |
+| 34 | 04/2021 | 7.891.972.540.000 | 789.197.254 | Tăng vốn thông qua phát hành cổ phiếu theo chương trình lựa chọn cho đối tượng là cán bộ nhân viên có thành tích đóng góp trong năm 2020; và, phát hành cổ phiếu mới theo chương trình phát hành cổ phiếu cho đối tượng là cán bộ lãnh đạo cấp cao năm 2021. |
+| 35 | 06/2021 | 9.075.516.490.000 | 907.551.649 | Tăng vốn từ kết quả kinh doanh năm 2020 thông qua trả cổ tức bằng cổ phiếu theo tỉ lệ 15%. |
+
+47
+
+===== PAGE 3 =====
+
+| STT | Tháng | Vốn điều lệ (đồng) | Số cổ phần | Ghi chú |
+| :--- | :--- | :--- | :--- | :--- |
+| 36 | 05/2022 | 9.141.959.140.000 | 914.195.914 | Tăng vốn thông qua phát hành cổ phiếu theo chương trình lựa chọn cho đối tượng là cán bộ nhân viên có thành tích đóng góp trong năm 2021; và, phát hành cổ phiếu mới theo chương trình phát hành cổ phiếu cho đối tượng là cán bộ lãnh đạo cấp cao năm 2022. |
+| 37 | 07/2022 | 10.970.265.720.000 | 1.097.026.572 | Tăng vốn từ kết quả kinh doanh năm 2021 thông qua trả cổ tức bằng cổ phiếu theo tỉ lệ 20%. |
+
+2. Tỷ lệ sở hữu cổ phần của các Cổ đông Sáng lập tại ngày Thành lập Công ty
+
+| STT | Tên | Địa chỉ | Số lượng cổ phần | Tổng Trị giá (Đồng) | Tỷ lệ (%) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Bộ Tài chính cử người quản lý phần vốn nhà nước là ông: <br> **Trương Gia Bình** | | 102.000 | 10.200.000.000 | 51% |
+| 2 | Lê Quang Tiến | P11-K2B-TT Cty FPT, P. Cống vị, Q. Ba Đình, Hà Nội | 4.508 | 450.800.000 | 2,25% |
+| 3 | Bùi Quang Ngọc | 63B, Tổ3, P. Láng Thượng, Q. Ba Đình, Hà Nội | 3.594 | 359.400.000 | 1,80% |
+| 4 | Phan Ngô Tống Hưng | Số 10 Đặng Tất, P. Quán Thánh, Q. Ba Đình, Hà Nội | 2.764 | 276.400.000 | 1,38% |
+| 5 | Hoàng Minh Châu | 101Bis Võ Văn Tần, P.6, Q.3, TP.HCM | 2.757 | 275.700.000 | 1,38% |
+| 6 | Trương Thị Thanh Thanh | 150/29-31 Trần Tuấn Khải, P5, Q.5, TP.HCM | 2.134 | 213.400.000 | 1,07% |
+| 7 | Đỗ Cao Bảo | P25-K1, TT Cty FPT, P. Cống Vị, Q. Ba Đình, Hà Nội | 2.744 | 274.400.000 | 1,37% |
+
+48
+
+===== PAGE 4 =====
+
+| STT | Tên | Địa chỉ | Số lượng cổ phần | Tổng Trị giá (Đồng) | Tỷ lệ (%) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 8 | Nguyễn Thành Nam | 48 Liên Trì, P. Trần Hưng Đạo, Q. Hoàn Kiếm, Hà nội | 2.744 | 274.400.000 | 1,37% |
+| 9 | Nguyễn Điệp Tùng | B1, TT Lazer, P. Ô Chợ Dừa, Q. Đống Đa, Hà nội | 1.689 | 168.900.000 | 0,84% |
+| 10 | 628 người lao động khác | | 75.066 | 7.506.600.000 | 37,53% |
+
+49

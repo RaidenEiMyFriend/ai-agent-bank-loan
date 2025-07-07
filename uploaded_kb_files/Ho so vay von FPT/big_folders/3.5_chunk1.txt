@@ -1,0 +1,684 @@
+===== PAGE 1 =====
+[Red circular seal, partially visible, "ĐÃ" and "FPT"]
+
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023
+
+[Red circular seal, partially visible, "P.HỒ" and "TP.HỒ C.M.D"]
+
+===== PAGE 2 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+
+BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023
+
+NỘI DUNG | TRANG
+-----------------------|------
+Thông tin về doanh nghiệp | 1
+Báo cáo của Tổng Giám đốc | 2
+Báo cáo kiểm toán độc lập | 3
+Bảng cân đối kế toán hợp nhất (Mẫu số B 01 – DN/HN) | 5
+Báo cáo kết quả hoạt động kinh doanh hợp nhất (Mẫu số B 02 – DN/HN) | 7
+Báo cáo lưu chuyển tiền tệ hợp nhất (Mẫu số B 03 – DN/HN) | 8
+Thuyết minh báo cáo tài chính hợp nhất (Mẫu số B 09 – DN/HN) | 9
+
+CÔNG TY CỔ PHẦN DỊCH VỤ
+TRỰC TUYẾN FPT
+Digitally signed by CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+DN: CN=CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT, L=TP. Hồ Chí Minh, C=VN, O=FPT
+Reason: I am the author of this document
+Location: your signing location not set
+Date: 2024.03.05 18:23:29+07'00'
+Foxit PDF Reader Version: 12.0.2
+
+===== PAGE 3 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+
+THÔNG TIN VỀ DOANH NGHIỆP
+
+Giấy chứng nhận
+đăng ký doanh nghiệp
+    Số 030504911 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh
+    cấp lần đầu ngày 21 tháng 8 năm 2007. Giấy chứng nhận đăng ký
+    doanh nghiệp thay đổi gần nhất (lần thứ 15) được cấp ngày 31
+    tháng 3 năm 2021.
+
+Hội đồng Quản trị
+    Bà Nguyễn Thị Hải        Chủ tịch
+    Bà Chu Thị Thanh Hà      Thành viên
+    Ông Nguyễn Thế Phương    Thành viên
+
+Ban kiểm soát
+    Ông Nguyễn Đình Hùng     Trưởng ban
+    Bà Nguyễn Thị Hồng Hà    Thành viên
+    Bà Nguyễn Thị Kim Phượng Thành viên
+
+Tổng Giám đốc
+    Ông Ngô Mạnh Cường       Tổng Giám đốc
+
+Người đại diện
+theo pháp luật
+    Bà Nguyễn Thị Hải        Chủ tịch
+
+Trụ sở chính
+    Lô L 29B-31B-33B, Đường Tân Thuận, Phường Tân Thuận Đông,
+    Quận 7, Thành phố Hồ Chí Minh, Việt Nam
+
+Công ty kiểm toán
+    Công ty TNHH PwC (Việt Nam)
+
+1
+
+===== PAGE 4 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+
+BÁO CÁO CỦA TỔNG GIÁM ĐỐC
+
+Trách nhiệm của Tổng Giám đốc của Công ty đối với báo cáo tài chính hợp nhất
+
+    Người đại diện theo pháp luật của Công ty Cổ phần Dịch vụ Trực tuyến FPT (“Công ty”) ủy quyền
+    cho Tổng Giám đốc của Công ty chịu trách nhiệm lập báo cáo tài chính hợp nhất của Công ty và
+    Công ty con thể hiện trung thực và hợp lý tình hình tài chính hợp nhất của Công ty và Công ty
+    con tại ngày 31 tháng 12 năm 2023, cũng như kết quả hoạt động kinh doanh hợp nhất và tình
+    hình lưu chuyển tiền tệ hợp nhất của Công ty và Công ty con cho năm tài chính kết thúc vào ngày
+    nêu trên. Trong việc lập báo cáo tài chính hợp nhất này, Tổng Giám đốc được yêu cầu phải:
+
+    •   chọn lựa các chính sách kế toán phù hợp và áp dụng một cách nhất quán;
+    •   thực hiện các xét đoán và ước tính một cách hợp lý và thận trọng; và
+    •   lập báo cáo tài chính hợp nhất trên cơ sở hoạt động liên tục trừ khi giả định hoạt động liên
+        tục là không phù hợp.
+
+    Tổng Giám đốc của Công ty chịu trách nhiệm về lập và trình bày trung thực và hợp lý báo cáo
+    tài chính hợp nhất theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt
+    Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất
+    và chịu trách nhiệm về kiểm soát nội bộ mà Tổng Giám đốc xác định là cần thiết để đảm bảo việc
+    lập và trình bày báo cáo tài chính hợp nhất không có sai sót trọng yếu do gian lận hoặc
+    nhầm lẫn.
+
+    Người đại diện theo pháp luật ủy quyền cho Tổng Giám đốc của Công ty để phê duyệt và ký báo
+    cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12 năm 2023 theo Thư Ủy
+    quyền ngày 18 tháng 8 năm 2023.
+
+Phê chuẩn báo cáo tài chính hợp nhất
+
+    Theo đây, tôi phê chuẩn báo cáo tài chính hợp nhất đính kèm từ trang 5 đến trang 40. Báo cáo
+    tài chính hợp nhất này phản ánh trung thực và hợp lý tình hình tài chính hợp nhất của Công ty
+    và Công ty con tại ngày 31 tháng 12 năm 2023, cũng như kết quả hoạt động kinh doanh hợp
+    nhất và tình hình lưu chuyển tiền tệ hợp nhất của Công ty và Công ty con cho năm tài chính kết
+    thúc cùng ngày nêu trên, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh
+    nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính
+    hợp nhất.
+
+[Red circular seal: CÔNG TY CP DỊCH VỤ TRỰC TUYẾN FPT Online]
+[Signature: Ngô Mạnh Cường]
+Ngô Mạnh Cường
+Tổng Giám đốc
+Giấy ủy quyền ngày 18 tháng 8 năm 2023
+TP. Hồ Chí Minh, nước CHXHCN Việt Nam
+Ngày 28 tháng 2 năm 2024
+
+2
+
+===== PAGE 5 =====
+pwc
+
+BÁO CÁO KIỂM TOÁN ĐỘC LẬP
+GỬI CÁC CỔ ĐÔNG CỦA CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+
+Trách nhiệm của Tổng Giám đốc
+
+    Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất kèm theo của Công ty Cổ phần Dịch vụ Trực
+    tuyến FPT (“Công ty”) và công ty con được lập ngày 31 tháng 12 năm 2023, và được Tổng Giám
+    đốc của Công ty phê chuẩn vào ngày 28 tháng 2 năm 2024. Báo cáo tài chính hợp nhất này bao
+    gồm: bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2023, báo cáo kết quả hoạt động
+    kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất cho năm tài chính kết thúc cùng
+    ngày nêu trên, và thuyết minh báo cáo tài chính hợp nhất bao gồm các chính sách kế toán chủ
+    yếu từ trang 5 đến trang 40.
+
+Trách nhiệm của Kiểm toán viên
+
+    Trách nhiệm của chúng tôi là đưa ra ý kiến về báo cáo tài chính hợp nhất này dựa trên kết quả
+    cuộc kiểm toán. Chúng tôi đã tiến hành kiểm toán theo các Chuẩn mực Kiểm toán Việt Nam.
+    Các chuẩn mực này yêu cầu chúng tôi tuân thủ chuẩn mực và các quy định về đạo đức nghề
+    nghiệp và lập kế hoạch và thực hiện cuộc kiểm toán để đạt được sự đảm bảo hợp lý về việc liệu
+    báo cáo tài chính hợp nhất của Công ty và công ty con có còn sai sót trọng yếu hay không.
+
+    Công việc kiểm toán bao gồm thực hiện các thủ tục nhằm thu thập các bằng chứng kiểm toán
+    và các số liệu và thuyết minh trên báo cáo tài chính hợp nhất. Các thủ tục kiểm toán được lựa
+    chọn dựa trên xét đoán của kiểm toán viên, bao gồm đánh giá rủi ro có sai sót trọng yếu trong
+    báo cáo tài chính hợp nhất do gian lận hoặc nhầm lẫn. Khi thực hiện đánh giá các rủi ro này,
+    kiểm toán viên đã xem xét kiểm soát nội bộ của Công ty và công ty con liên quan đến việc lập
+    và trình bày báo cáo tài chính hợp nhất trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán
+    phù hợp với tình hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của
+    kiểm soát nội bộ của Công ty và công ty con. Công việc kiểm toán cũng bao gồm việc đánh giá
+    tính thích hợp của các chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán
+    của Tổng Giám đốc, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính hợp nhất.
+
+    Chúng tôi tin tưởng rằng các bằng chứng kiểm toán mà chúng tôi đã thu thập được là đầy đủ và
+    thích hợp để làm cơ sở cho ý kiến kiểm toán của chúng tôi.
+
+3
+
+Công ty TNHH PwC (Việt Nam)
+Lầu 8, Saigon Tower, 29 Lê Duẩn, Quận 1, TP. Hồ Chí Minh, Việt Nam
+ĐT: +84 (28) 3823 0796, www.pwc.com/vn
+
+===== PAGE 6 =====
+pwc
+
+Ý kiến của Kiểm toán viên
+
+    Theo ý kiến của chúng tôi, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, xét trên
+    các khía cạnh trọng yếu, tình hình tài chính hợp nhất của Công ty và công ty con tại ngày 31
+    tháng 12 năm 2023 cũng như kết quả hoạt động kinh doanh hợp nhất, và tình hình lưu chuyển
+    tiền tệ hợp nhất của Công ty và công ty con cho năm tài chính kết thúc cùng ngày nêu trên, phù
+    hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy
+    định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Thay mặt và đại diện cho Công ty TNHH PwC (Việt Nam)
+
+[Red circular seal: CÔNG TY TNHH PwC (VIỆT NAM) Mã số D.N:0100157406-C.T.N.H.H * QUẬN 1 - TP.HỒ CHÍ MINH]
+[Signature]
+Trần Khắc Thế
+Số Giấy CN ĐKHN kiểm toán:
+2043-2023-006-1
+Chữ ký được ủy quyền
+
+[Signature: Nguyễn Đức Anh]
+Nguyễn Đức Anh
+Số Giấy CN ĐKHN kiểm toán:
+4595-2023-006-1
+
+Số hiệu báo cáo kiểm toán: HCM14497
+TP. Hồ Chí Minh, ngày 28 tháng 2 năm 2024
+
+4
+
+===== PAGE 7 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 01 – DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+
+| Mã số | TÀI SẢN | Thuyết minh | Tại ngày 31 tháng 12 năm | |
+|-------|-----------------------------------------------|--------------|------------------------------|-------|
+|       |                                               |              | 2023 VND                     | 2022 VND |
+| **100** | **TÀI SẢN NGẮN HẠN**                       |              | **844.257.145.260**          | **889.615.495.995** |
+| 110   | Tiền và các khoản tương đương tiền            |              | 73.235.164.925               | **166.625.610.807** |
+| 111   | Tiền                                          | 3            | 27.035.164.925               | 31.641.047.969 |
+| 112   | Các khoản tương đương tiền                    |              | 46.200.000.000               | 134.984.562.838 |
+| **120** | **Các khoản đầu tư tài chính ngắn hạn**    |              | **664.944.688.963**          | **610.022.648.379** |
+| 123   | Đầu tư nắm giữ đến ngày đáo hạn               | 4(a)         | 664.944.688.963              | 610.022.648.379 |
+| **130** | **Các khoản phải thu ngắn hạn**            |              | **102.178.354.145**          | **105.649.919.035** |
+| 131   | Phải thu ngắn hạn của khách hàng              | 5            | 10.187.323.262               | 94.335.196.081 |
+| 132   | Trả trước cho người bán ngắn hạn              | 6            | 3.614.628.950                | 2.499.708.087 |
+| 136   | Phải thu ngắn hạn khác                        | 7(a)         | 1.700.000.835                | 13.339.593.876 |
+| 137   | Dự phòng phải thu ngắn hạn khó đòi            | 8            | (17.555.136.604)             | (4.519.580.511) |
+| **140** | **Hàng tồn kho**                          |              | **1.404.688.477**            | **1.307.836.602** |
+| 141   | Hàng tồn kho                                  | 9            | 1.404.688.477                | 1.307.836.602 |
+| **150** | **Tài sản ngắn hạn khác**                 |              | **2.494.248.750**            | **6.009.481.172** |
+| 151   | Chi phí trả trước ngắn hạn                   | 9(a)         | 2.494.248.750                | 2.494.248.725 |
+| 152   | Thuế giá trị gia tăng ("GTGT") được khấu trừ |              |                              | 3.505.137.187 |
+| 153   | Thuế và các khoản khác phải thu               |              |                              |              |
+|       | Nhà nước chờ                                  |              |                              | 10.095.260 |
+| **200** | **TÀI SẢN DÀI HẠN**                       |              | **61.128.263.497**           | **70.703.299.087** |
+| 210   | Các khoản phải thu dài hạn                    |              | **602.100.000**              | **2.993.098.500** |
+| 216   | Phải thu dài hạn khác                         | 7(b)         | 602.100.000                  | 2.993.098.500 |
+| **220** | **Tài sản cố định**                       |              | **9.339.618.883**            | **11.708.088.598** |
+| 221   | Tài sản cố định hữu hình                      | 10(a)        | 3.904.346.288                | 17.708.088.598 |
+| 222   | Nguyên giá                                    |              | 94.012.005.258               | 95.141.684.518 |
+| 223   | Giá trị khấu hao lũy kế                      |              | (85.108.016.058)             | (83.483.595.920) |
+| 227   | Tài sản cố định vô hình                       | 10(c)        | 435.672.603                  | 281.173.395.476 |
+| 228   | Nguyên giá                                    |              | 476.000.000                  |              |
+| 229   | Giá trị khấu hao lũy kế                      |              | (40.427.397)                 |              |
+| **250** | **Đầu tư tài chính dài hạn**              |              |                              |              |
+| 253   | Đầu tư góp vốn vào đơn vị khác                | 4(b)         | 3.684.980.000                | 3.684.980.000 |
+| 254   | Dự phòng đầu tư tài chính dài hạn             | 4(b)         | (3.684.980.000)              | (3.684.980.000) |
+| **260** | **Tài sản dài hạn khác**                  |              | **51.186.544.614**           | **56.002.111.989** |
+| 261   | Chi phí trả trước dài hạn                     | 9(b)         | 50.000.285.969               | 55.918.962.741 |
+| 262   | Lợi thế kinh doanh thu nhập hoãn lại          | 27           | 1.186.258.645                | 83.149.248 |
+| **270** | **TỔNG TÀI SẢN**                          |              | **905.385.408.757**          | **960.318.795.082** |
+
+Các thuyết minh từ trang 9 đến trang 40 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+5
+
+===== PAGE 8 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 01 – DN/HN
+
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+(tiếp theo)
+
+| Mã số | NGUỒN VỐN | Thuyết minh | Tại ngày 31 tháng 12 năm | |
+|-------|-----------------------------------------------|--------------|------------------------------|-------|
+|       |                                               |              | 2023 VND                     | 2022 VND |
+| **300** | **NỢ PHẢI TRẢ**                           |              | **174.437.101.580**          | **239.306.024.708** |
+| **310** | **Nợ ngắn hạn**                            |              | **174.154.998.830**          | **239.306.024.708** |
+| 311   | Nợ phải trả người bán ngắn hạn                | 11           | 16.726.708.328               | 34.280.549.474 |
+| 312   | Người mua trả tiền trước ngắn hạn             | 12           | 38.920.386.917               | 34.913.865.374 |
+| 313   | Thuế và các khoản phải nộp Nhà nước           | 13           | 18.158.030.381               | 19.268.750.840 |
+| 314   | Phải trả người lao động                       | 14           | 36.758.418.000               | 34.091.208.360 |
+| 315   | Chi phí phải trả ngắn hạn                     | 15           | 3.933.370.111                | 3.545.800.000 |
+| 318   | Phải trả ngắn hạn khác                        |              | 2.745.571.959                | 12.240.250.502 |
+| 322   | Quỹ khen thưởng, phúc lợi                     | 16           | 60.512.447.176               | 90.366.599.998 |
+| **330** | **Nợ dài hạn**                              |              | **282.102.750**              |              |
+| 341   | Thuế thu nhập hoãn lại phải trả               | 27           | 282.102.750                  |              |
+| **400** | **VỐN CHỦ SỞ HỮU**                         |              | **730.948.307.177**          | **721.012.770.374** |
+| **410** | **Vốn chủ sở hữu**                         |              | **730.948.307.177**          | **721.012.770.374** |
+| 411   | Vốn góp của chủ sở hữu                        | 17, 18       | 184.712.750.000              | 184.712.750.000 |
+| 413   | - Cổ phiếu phổ thông có quyền biểu quyết      |              | 184.712.750.000              | 184.712.750.000 |
+| 412   | Thặng dư vốn cổ phần                          | 18           | 36.208.703.645               | 36.208.703.645 |
+| 415   | Cổ phiếu quỹ                                  | 18           | (721.035.000)                | (721.035.000) |
+| 421   | Lợi nhuận sau thuế ("LNST") chưa              |              |                              |              |
+|       | phân phối                                     | 18           | 510.747.888.532              | 496.260.963.930 |
+| 421a  | - LNST chưa phân phối lũy kế của các          |              |                              |              |
+|       | năm trước                                     |              | 400.334.462.231              | 273.593.316.558 |
+| 421b  | - LNST chưa phân phối của năm nay             |              | 110.413.426.301              | 222.667.647.372 |
+| 429   | Lợi ích cổ đông không kiểm soát               | 18           |                              | 4.551.387.799 |
+| **440** | **TỔNG NGUỒN VỐN**                         |              | **905.385.408.757**          | **960.318.795.082** |
+
+[Signature: Nguyễn Ngọc Duy Sinh]
+Nguyễn Ngọc Duy Sinh
+Người lập
+
+[Signature: Lã Thị Thanh Hằng]
+Lã Thị Thanh Hằng
+Kế toán trưởng
+
+[Red circular seal: CÔNG TY CP DỊCH VỤ TRỰC TUYẾN FPT Online]
+[Signature: Ngô Mạnh Cường]
+Ngô Mạnh Cường
+Tổng Giám đốc
+Ngày 28 tháng 2 năm 2024
+
+Các thuyết minh từ trang 9 đến trang 40 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+6
+
+===== PAGE 9 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 02 – DN/HN
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT
+
+| Mã số | Thuyết minh | Năm tài chính kết thúc ngày 31 tháng 12 năm | |
+|-------|-----------------------------------------------|--------------|------------------------------|-------|
+|       |                                               |              | 2023 VND                     | 2022 VND |
+| 01    | Doanh thu cung cấp dịch vụ                    |              | 625.426.063.504              | 786.420.085.113 |
+| 02    | Các khoản giảm trừ doanh thu                  |              | 5.467.587.116                | 10.991.425.930 |
+| 10    | Doanh thu thuần về cung cấp dịch vụ           |              |                              |              |
+|       | (10 = 01 – 02)                                |              | 619.958.476.388              | 775.428.659.183 |
+| 11    | Giá vốn dịch vụ và cung cấp                  | 21           | 352.180.807.243              | 309.160.143.162 |
+| 20    | Lợi nhuận gộp về cung cấp dịch vụ             | 22           |                              |              |
+|       | (20 = 10 – 11)                                |              | 267.777.669.145              | 466.268.516.021 |
+| 21    | Doanh thu hoạt động tài chính                 | 23           | 53.947.206.713               | 33.743.622.911 |
+| 22    | Chi phí tài chính                             | 24           | 79.047.182                   | 158.316 |
+| 25    | Chi phí bán hàng                              | 25           | 80.000.573.800               | 106.358.763.817 |
+| 26    | Chi phí quản lý doanh nghiệp                  |              | 92.222.440.190               | 84.840.004.830 |
+| 30    | Lợi nhuận thuần từ hoạt động kinh doanh       |              | **149.425.817.706**          | **308.813.211.969** |
+|       | (30 = 20 + 21 – 22 – 25 – 26)                 |              |                              |              |
+| 31    | Thu nhập khác                                 |              | 1.232.884.732                | 494.419.712 |
+| 32    | Chi phí khác                                  | 26           | 3.564.800.522                | 36.208.703.645 |
+| 40    | Lợi nhuận kế toán trước thuế (50              |              |                              |              |
+|       | = 30 + 40)                                    |              | **147.093.901.916**          | **309.259.993.436** |
+| 51    | Chi phí thuế thu nhập doanh nghiệp            |              |                              |              |
+|       | Chi phí thuế thu nhập doanh nghiệp            | 27           | **30.529.732.017**           | **61.616.597.828** |
+| 52    | Thuế TNDN hoãn lại                            | 27           | (821.008.657)                | 258.611.852 |
+| 60    | Lợi nhuận sau thuế TNDN                       |              | **117.385.176.556**          | **247.408.595.747** |
+|       | (60 = 50 – 51 – 52)                           |              |                              |              |
+|       | Phân bổ cho:                                  |              |                              |              |
+| 61    | LNST của công ty mẹ                           |              | 118.429.271.780              | 247.408.405.747 |
+| 62    | Lãi sau thuế của cổ đông không kiểm soát      | 3            | (1.044.095.224)              | (822.000) |
+| 70    | Lãi cơ bản trên cổ phiếu                      | 19(a)        | 5.786                        | 12.088 |
+| 71    | Lãi suy giảm trên cổ phiếu                    | 19(b)        | 5.786                        | 12.088 |
+
+[Signature: Nguyễn Ngọc Duy Sinh]
+Nguyễn Ngọc Duy Sinh
+Người lập
+
+[Signature: Lã Thị Thanh Hằng]
+Lã Thị Thanh Hằng
+Kế toán trưởng
+
+[Red circular seal: CÔNG TY CP DỊCH VỤ TRỰC TUYẾN FPT Online]
+[Signature: Ngô Mạnh Cường]
+Ngô Mạnh Cường
+Tổng Giám đốc
+Ngày 28 tháng 2 năm 2024
+
+Các thuyết minh từ trang 9 đến trang 40 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+7
+
+===== PAGE 10 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 03 – DN/HN
+
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT
+(Theo phương pháp gián tiếp)
+
+| Mã số | Thuyết minh | Năm tài chính kết thúc ngày 31 tháng 12 năm | |
+|-------|-----------------------------------------------|--------------|------------------------------|-------|
+|       |                                               |              | 2023 VND                     | 2022 VND |
+|       | **I. LƯU CHUYỂN TIỀN TỆ TỪ HOẠT ĐỘNG KINH DOANH** |            | **147.093.901.916**          | **309.259.993.436** |
+| 01    | Lợi nhuận kế toán trước thuế                  |              | 147.093.901.916              | 309.259.993.436 |
+| 02    | Khấu hao tài sản cố định ("TSCS")             | 10           | 3.902.140.150                | 2.084.984.353 |
+| 03    | Các khoản dự phòng (hoàn nhập dự phòng)       | 12           | 13.035.556.093               | 4.469.351.185 |
+| 04    | Lợi nhuận chênh lệch tỷ giá hối đoái đánh giá lại các |              |                              |              |
+|       | khoản mục tiền tệ, gốc ngoại tệ                |              | (1.826.259.991)              | (1.179.059.306) |
+| 05    | Lãi từ hoạt động đầu tư                       | 23           | (52.120.851.197)             | (31.271.531.405) |
+| 08    | Lợi nhuận từ hoạt động kinh doanh trước       |              | **110.084.486.971**          | **283.363.738.263** |
+|       | thay đổi vốn lưu động                         |              |                              |              |
+| 09    | (Tăng)/giảm hàng tồn kho                      | 16           | (6.707.859.346)              | 9.778.187.818 |
+| 10    | Giảm các khoản phải thu                       |              | 33.041.808.835               | 7.406.562.477 |
+| 11    | (Tăng)/giảm chi phí trả trước                 |              | (36.077.503.594)             | (21.613.151.501) |
+| 12    | Tăng các khoản phải trả                        |              | (3.018.971.071)              | (5.012.791.430) |
+| 15    | Tiền thuế TNDN đã nộp                         | 9            | (30.739.667.969)             | (50.216.170.207) |
+| 16    | Tiền chi khác từ hoạt động kinh doanh         | 9            | 60.000.000                   | 90.000.000 |
+| 17    | Tiền thu khác từ hoạt động kinh doanh         | 16           | (41.757.069.000)             | (41.276.626.000) |
+| **20**  | **Lưu chuyển tiền thuần từ hoạt động kinh doanh** |              | **1.684.234.774**            | **168.036.325.320** |
+|       | **II. LƯU CHUYỂN TIỀN TỆ TỪ HOẠT ĐỘNG ĐẦU TƯ** |            |                              |              |
+| 21    | Tiền chi để mua TSCD                          |              | (1.533.670.435)              | (1.201.991.103) |
+| 23    | Tiền thu hồi vốn cho vay và gửi tiền kỳ hạn   |              |                              |              |
+|       | trên 3 tháng                                  |              | (1.344.584.524.863)          | (1.397.621.163.927) |
+| 24    | Tiền thu hồi vốn cho vay và gửi tiền kỳ hạn   |              |                              |              |
+|       | trên 3 tháng                                  |              | 1.287.682.484.279            | 1.287.881.516.548 |
+| 27    | Tiền thu lãi cổ tức được chia và lãi tiền gửi | 18           | 25.150.851.197               | 24.171.531.405 |
+| **30**  | **Lưu chuyển tiền thuần từ hoạt động đầu tư** |              | **(3.294.859.822)**          | **(136.970.108.077)** |
+|       | **III. LƯU CHUYỂN TIỀN TỆ TỪ HOẠT ĐỘNG TÀI CHÍNH** |            |                              |              |
+| 36    | Tiền chi trả cổ tức                           |              | (93.606.080.825)             | (147.358.061.200) |
+| **40**  | **Lưu chuyển tiền thuần từ hoạt động tài chính** |            | **(93.606.080.825)**         | **(147.358.061.200)** |
+|       | **Lưu chuyển tiền thuần trong năm**            |              | **(95.216.705.873)**         | **(18.732.843.978)** |
+| 50    | Tiền và các khoản tương đương tiền đầu năm    | 3            | 166.625.610.807              | 281.173.395.476 |
+| 60    | Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi |              |                              |              |
+|       | ngoại tệ                                      |              | 1.826.259.991                | 1.179.059.306 |
+| **70**  | **Tiền và các khoản tương đương tiền cuối năm** | 3            | **73.235.164.925**           | **166.625.610.807** |
+
+[Signature: Nguyễn Ngọc Duy Sinh]
+Nguyễn Ngọc Duy Sinh
+Người lập
+
+[Signature: Lã Thị Thanh Hằng]
+Lã Thị Thanh Hằng
+Kế toán trưởng
+
+[Red circular seal: CÔNG TY CP DỊCH VỤ TRỰC TUYẾN FPT Online]
+[Signature: Ngô Mạnh Cường]
+Ngô Mạnh Cường
+Tổng Giám đốc
+Ngày 28 tháng 2 năm 2024
+
+Các thuyết minh từ trang 9 đến trang 40 là một phần cấu thành báo cáo tài chính hợp nhất này.
+
+8
+
+===== PAGE 11 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT
+CHO NĂM TÀI CHÍNH KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2023
+
+1 ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY
+
+    Công ty Cổ phần Dịch vụ Trực tuyến FPT (“Công ty”) là một công ty cổ phần được thành
+    lập tại nước CHXHCN Việt Nam theo Giấy chứng nhận đăng ký doanh nghiệp số
+    030504911 ngày 21 tháng 8 năm 2007, và Giấy chứng nhận đăng ký doanh nghiệp thay
+    đổi gần nhất (lần thứ 15) ngày 31 tháng 3 năm 2021 do Sở Kế hoạch và Đầu tư Thành
+    phố Hồ Chí Minh cấp.
+
+    Cổ đông của Công ty là các công ty, các cá nhân đang hoạt động kinh doanh và làm việc
+    tại Việt Nam. Chi tiết về tỷ lệ phần trăm góp vốn được trình bày ở Thuyết minh 17.
+
+    Công ty được chấp thuận niêm yết cổ phiếu trên thị trường UPCoM tại Sở Giao dịch
+    Chứng khoán Hà Nội theo Quyết định số 775/QĐ-SGDHN ngày 3 tháng 12 năm 2018
+    của Sở Giao dịch Chứng khoán Hà Nội với mã giao dịch cổ phiếu FOC.
+
+    Hoạt động chính của Công ty là cung cấp dịch vụ viễn thông, dịch vụ quảng cáo trực
+    tuyến, dịch vụ truy cập internet, dịch vụ truy cập dữ liệu, dịch vụ xử lý số liệu và thông tin
+    trên mạng internet, dịch vụ trao đổi dữ liệu điện tử, và các dịch vụ trực tuyến khác.
+
+    Chu kỳ kinh doanh thông thường của Công ty là trong vòng 12 tháng.
+
+    Tại ngày 31 tháng 12 năm 2023, Công ty có 312 nhân viên (tại ngày 31 tháng 12 năm
+    2022: 364 nhân viên).
+
+    Tại ngày 31 tháng 12 năm 2023, Công ty có 1 đơn vị trực thuộc không có tư cách pháp
+    nhân hạch toán phụ thuộc là Công ty Cổ phần Dịch vụ Trực tuyến FPT – Chi nhánh Hà
+    Nội, hoạt động tại tòa nhà FPT, Phố Phạm Văn Bạch, Phường Dịch Vọng Hậu, Quận
+    Cầu Giấy, Thành phố Hà Nội, Việt Nam.
+
+    Trước kia, Công ty có 1 Công ty con là Công ty Cổ phần Dịch vụ Gate. Hoạt động chính
+    của Công ty Cổ phần Dịch vụ Gate là phân phối thẻ trả trước, thẻ game, thẻ viễn thông.
+    Tuy nhiên, Công ty con này đã bị giải thể trong năm 2023. Tại ngày 31 tháng 12 năm
+    2023, Công ty không còn có Công ty con.
+
+Trình bày về khả năng so sánh thông tin trên báo cáo tài chính hợp nhất:
+
+    Số liệu so sánh trình bày trên báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày
+    31 tháng 12 năm 2023 là số liệu của báo cáo tài chính hợp nhất cho năm tài chính kết
+    thúc ngày 31 tháng 12 năm 2022 đã được kiểm toán.
+
+9
+
+===== PAGE 12 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+2.1 Cơ sở của việc lập báo cáo tài chính hợp nhất
+
+    Báo cáo tài chính hợp nhất đã được lập theo các Chuẩn mực Kế toán Việt Nam, Chế độ
+    Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và
+    trình bày báo cáo tài chính hợp nhất. Báo cáo tài chính hợp nhất được lập theo nguyên
+    tắc giá gốc.
+
+    Báo cáo tài chính hợp nhất kèm theo không nhằm mục đích trình bày tình hình tài chính,
+    kết quả kinh doanh và tình hình lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế
+    toán thường được chấp nhận ở các nước và các chế độ khác ngoài nước Việt Nam.
+    Nguyên tắc và thông lệ kế toán sử dụng tại nước Việt Nam có thể khác với các
+    nguyên tắc và thông lệ kế toán tại các nước và các chế độ khác.
+
+    Theo thông tư số 202/2014/TT-BTC ngày 22 tháng 12 năm 2014 của Bộ Tài chính
+    hướng dẫn phương pháp lập và trình bày báo cáo tài chính hợp nhất, Công ty không
+    cần phải lập báo cáo tài chính hợp nhất cho năm tài chính kết thúc ngày 31 tháng 12
+    năm 2022 bởi vì tại ngày này Công ty không còn có công ty con. Tuy nhiên, Công ty
+    vẫn tự nguyện lập báo cáo tài chính hợp nhất cho năm tài chính này.
+
+2.2 Năm tài chính
+
+    Năm tài chính của Công ty bắt đầu từ ngày 1 tháng 1 đến ngày 31 tháng 12.
+
+2.3 Đơn vị tiền tệ sử dụng trong kế toán
+
+    Công ty và công ty con sử dụng đơn vị tiền tệ trong kế toán và trình bày trên báo cáo tài
+    chính hợp nhất là Đồng Việt Nam (“VND” hoặc “Đồng”).
+
+2.4 Các loại tỷ giá hối đoái áp dụng trong kế toán
+
+    Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo một tỷ giá là tỷ giá xấp xỉ với
+    tỷ giá mua, bán chuyển khoản trung bình của ngân hàng thương mại nơi Công ty và công
+    ty con thường xuyên có giao dịch. Công ty và công ty con ghi nhận lãi, lỗ tỷ giá do chênh
+    lệch không vượt quá +/-1% so với tỷ giá mua bán chuyển khoản trung bình, và không
+    làm ảnh hưởng trọng yếu đến tình hình tài chính hay kết quả hoạt động kinh doanh của
+    năm tài chính. Tỷ giá mua bán chuyển khoản trung bình được các ngân hàng đăng trên
+    cơ sở trung bình cộng giữa tỷ giá mua và tỷ giá bán chuyển khoản hàng ngày của ngân
+    hàng thương mại. Chênh lệch tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu
+    nhập hoặc chi phí trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+    Tài sản và nợ phải trả bằng tiền tệ có gốc ngoại tệ tại ngày của bảng cân đối kế toán hợp
+    nhất (trừ các khoản đầu tư nắm giữ đến ngày đáo hạn của ngân hàng thương mại nơi
+    Công ty và công ty con thường xuyên có giao dịch) được quy lại bằng tiền bạn đổi trung
+    bình hợp nhất. Tỷ giá chuyển khoản này là tỷ giá bán của ngân hàng thương mại. Chênh lệch
+    tỷ giá phát sinh từ việc quy đổi này được ghi nhận là thu nhập hoặc chi phí trong báo cáo
+    kết quả hoạt động kinh doanh hợp nhất.
+
+10
+
+===== PAGE 13 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.5 Cơ sở hợp nhất báo cáo tài chính
+
+Công ty con
+
+    Công ty con là doanh nghiệp mà Công ty có quyền chi phối các chính sách tài chính và
+    hoạt động của doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh
+    nghiệp đó. Quyền chi phối là việc nắm giữ hơn một nửa quyền biểu quyết. Sự tồn tại và
+    tính hữu hiệu của quyền biểu quyết tiềm tàng đang được thực thi hoặc được chuyển đổi
+    sẽ được xem xét khi đánh giá Công ty có quyền kiểm soát doanh nghiệp hay không.
+    Công ty con được hợp nhất toàn bộ kể từ ngày quyền kiểm soát chuyển giao cho
+    Công ty. Việc hợp nhất chấm dứt kể từ lúc quyền kiểm soát không còn.
+
+    Phương pháp kế toán mà được Công ty sử dụng để hạch toán việc mua công ty con.
+    Chi phí mua được ghi nhận theo giá trị hợp lý của các tài sản đem trao đổi, cộng cụ vốn
+    được phát hành và các khoản nợ phải trả đã phát sinh hoặc đã thừa nhận tại ngày diễn
+    ra việc trao đổi, cộng với các chi phí hợp nhất liên quan đến việc mua. Các tài sản xác
+    định được nợ phải trả và những khoản nợ tiềm tàng đã được thừa nhận khi hợp nhất
+    kinh doanh được xác định trước hết theo giá trị hợp lý tại ngày mua nhưng kế đến lợi ích
+    của cổ đông không kiểm soát. Khoản vượt trội giữa chi phí mua so với phần giá hữu của
+    bên mua trong giá trị hợp lý của tài sản thuần đơn vị bị mua được ghi nhận là lợi thế
+    thương mại. Phần giá hữu của bên mua trong giá trị hợp lý của tài sản thuần đơn vị bị mua,
+    phần chênh lệch được ghi nhận ngay vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+    Giao dịch, công nợ và các khoản lãi, các khoản lỗ chưa thực hiện phát sinh trong nội bộ
+    các công ty thành viên được loại trừ khi hợp nhất.
+
+    Chính sách kế toán của công ty con cũng thay đổi nếu cần thiết để đảm bảo sự nhất
+    quán với chính sách kế toán đang được công ty mẹ áp dụng.
+
+    Báo cáo tài chính của công ty con sử dụng để hợp nhất phải được lập cho cùng một năm
+    tài chính. Nếu ngày kết thúc năm tài chính khác nhau, thời gian chênh lệch không vượt
+    quá 3 tháng. Báo cáo tài chính sử dụng để hợp nhất phải được điều chỉnh cho ảnh hưởng
+    của những giao dịch và sự kiện quan trọng xảy ra giữa ngày kết thúc năm tài chính khi
+    các công ty này kết thúc báo cáo tài chính với công ty mẹ. Đối với của kỳ báo cáo là thứ
+    khác nhau về thời điểm lập báo cáo tài chính phải được thống nhất qua các năm tài
+    chính.
+
+Nghiệp vụ và lợi ích của cổ đông không kiểm soát
+
+    Công ty và công ty con áp dụng chính sách cho các nghiệp vụ đối với cổ đông không
+    kiểm soát giống như nghiệp vụ với các bên thứ ba.
+
+    Lợi ích cổ đông không kiểm soát được xác định theo tỷ lệ phần sở hữu của cổ đông
+    không kiểm soát trong tài sản thuần của đơn vị bị mua lại tại ngày mua.
+
+    Những giao dịch làm thay đổi tỷ lệ sở hữu của công ty mẹ trong công ty con mà không
+    dẫn đến mất quyền kiểm soát được kế toán tương tự như các giao dịch vốn chủ sở hữu.
+    Chênh lệch giữa giá trị thay đổi nhận được của công ty mẹ trong tài sản thuần của công
+    ty con và số chi hoặc thu từ việc thoái vốn tại công ty con được ghi nhận vào LNST chưa
+    phân phối thuộc vốn chủ sở hữu.
+
+11
+
+===== PAGE 14 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.5 Cơ sở hợp nhất báo cáo tài chính (tiếp theo)
+
+Nghiệp vụ và lợi ích của cổ đông không kiểm soát (tiếp theo)
+
+    Những giao dịch làm thay đổi tỷ lệ sở hữu của công ty mẹ trong công ty con dẫn đến việc
+    mất quyền kiểm soát đối với công ty con, thì chênh lệch giữa giá trị thay đổi phần sở hữu
+    của công ty mẹ trong tài sản thuần của công ty con và số chi hoặc thu từ việc thoái vốn
+    tại công ty con được ghi nhận vào Báo cáo kết quả hoạt động kinh doanh hợp nhất. Phần
+    sở hữu còn lại trong công ty này sẽ được hạch toán như một khoản đầu tư tài chính
+    thông thường hoặc kế toán theo phương pháp vốn chủ sở hữu kể từ khi công ty mẹ
+    không còn nắm quyền kiểm soát công ty con.
+
+2.6 Tiền và các khoản tương đương tiền
+
+    Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng không
+    kỳ hạn và các khoản đầu tư ngắn hạn khác có thời hạn đáo hạn ban đầu không quá ba
+    tháng.
+
+2.7 Các khoản phải thu
+
+    Các khoản phải thu thể hiện giá trị ghi sổ của các khoản phải thu khách hàng gồm các
+    khoản phải thu mang tính chất thương mại phát sinh từ giao dịch bán hàng hóa, cung
+    cấp dịch vụ, và các khoản phải thu khác của có tính thương mại, không liên quan đến
+    giao dịch bán hàng hóa và cung cấp dịch vụ. Dự phòng các khoản phải thu khó đòi được
+    lập cho từng khoản phải thu căn cứ vào thời gian quá hạn hạn trả nợ gốc theo cam kết
+    ban đầu (không tính đến việc gia hạn nợ giữa các bên), hoặc căn cứ vào mức tổn thất
+    ước tính có thể xảy ra. Các khoản phải thu được xác định là không thể thu hồi sẽ được
+    xóa sổ.
+
+    Các khoản phải thu được phân loại ngắn hạn và dài hạn trên bảng cân đối kế toán hợp
+    nhất căn cứ theo kỳ hạn còn lại của các khoản phải thu tại ngày của bảng cân đối kế toán
+    hợp nhất tới ngày đến hạn thu hồi.
+
+2.8 Hàng tồn kho
+
+    Hàng tồn kho được thể hiện theo giá thấp hơn giữa giá gốc và giá trị thuần có thể thực
+    hiện được. Giá gốc được xác định trên cơ sở nhập trước xuất trước và bao gồm tất cả
+    các chi phí mua, chi phí chế biến và các chi phí khác có được hàng tồn kho ở địa điểm
+    và trạng thái hiện tại. Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng
+    tồn kho trong năm kinh doanh bình thường trừ chi phí ước tính để hoàn thành sản phẩm
+    và chi phí ước tính cần thiết cho việc tiêu thụ.
+
+    Công ty và công ty con áp dụng phương pháp kê khai thường xuyên để hạch toán hàng
+    tồn kho.
+
+    Dự phòng được lập cho hàng tồn kho bị lỗi thời, chậm lưu chuyển và bị hỏng. Chênh
+    lệch giữa khoản dự phòng lập ở cuối năm tài chính này và khoản dự phòng đã lập ở cuối
+    năm tài chính trước được ghi nhận tăng hoặc giảm giá vốn hàng bán trong năm.
+
+12
+
+===== PAGE 15 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.9 Đầu tư tài chính
+
+(a) Đầu tư nắm giữ đến ngày đáo hạn
+
+    Các khoản đầu tư nắm giữ đến ngày đáo hạn được phản ánh bao gồm các khoản tiền gửi ngân hàng không
+    kỳ hạn và các khoản đầu tư ngắn hạn khác có thời hạn đáo hạn ban đầu không quá ba
+    tháng.
+
+    Dự phòng giảm giá đầu tư nắm giữ đến ngày đáo hạn được lập trên cơ sở có bằng chứng
+    chắc chắn cho thấy một phần hoặc toàn bộ khoản đầu tư có thể không thu hồi được.
+    Chênh lệch giữa khoản dự phòng lập ở kỳ năm kế toán này và khoản dự phòng đã lập ở
+    cuối năm tài chính trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm.
+    Khoản dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.
+
+    Các khoản đầu tư nắm giữ đến ngày đáo hạn được phân loại ngắn hạn và dài hạn trên
+    bảng cân đối kế toán hợp nhất căn cứ theo kỳ hạn của các khoản đầu tư nắm giữ đến
+    ngày đáo hạn tại ngày của bảng cân đối kế toán hợp nhất đến ngày đáo hạn.
+
+(b) Đầu tư góp vốn vào đơn vị khác
+
+    Đầu tư góp vốn vào đơn vị khác là các khoản đầu tư vào công cụ vốn của đơn vị khác
+    nhưng không có quyền kiểm soát hoạt động, không kiểm soát, không có ảnh hưởng đáng kể
+    đối với bên được đầu tư. Các khoản đầu tư này được ghi nhận ban đầu theo giá gốc.
+    Sau đó, Tổng Giám đốc thực hiện việc rà soát đối với tất cả các khoản đầu tư để ghi
+    nhận dự phòng vào cuối kỳ tài chính.
+
+(c) Dự phòng giảm giá đầu tư góp vốn vào đơn vị khác
+
+    Dự phòng giảm giá đầu tư góp vốn vào đơn vị khác được lập vào cuối năm tài chính khi
+    có sự giảm giá trị của các khoản đầu tư.
+
+    Dự phòng giảm giá đầu tư góp vốn vào đơn vị khác được tính dựa trên giá trị thị trường
+    nếu giá trị thị trường được xác định một cách tin cậy. Nếu giá trị thị trường không thể
+    được xác định một cách tin cậy, dự phòng giảm giá đầu tư góp vốn vào đơn vị khác được
+    tính tương tự như dự phòng giảm giá đầu tư vào công ty con và công ty liên kết.
+
+    Chênh lệch giữa khoản dự phòng lập ở cuối kỳ kế toán này và khoản dự phòng đã lập ở
+    cuối kỳ kế toán trước được ghi nhận tăng hoặc giảm chi phí tài chính trong năm. Khoản
+    dự phòng được hoàn nhập không vượt quá giá trị ghi sổ ban đầu.
+
+13

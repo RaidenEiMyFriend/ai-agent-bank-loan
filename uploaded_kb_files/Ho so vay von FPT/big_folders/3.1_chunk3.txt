@@ -1,0 +1,479 @@
+===== PAGE 1 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+19    CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT (tiếp theo)
+
+(c)    Nợ khó đòi đã xử lý
+
+       Các khoản nợ khó đòi đã được xóa sổ do không thể thu hồi được từ khách hàng tại ngày
+       31 tháng 12 năm 2022 như sau:
+
+|                                      | 2022       | 2021 |
+| :----------------------------------- | :--------- | :--- |
+|                                      | VND        | VND  |
+|                                      |            |      |
+| Công ty Cổ phần Viễn thông Gia Phát | 5.209.500.000 |      |
+| Tạp chí Thế giới Vi tính            | 2.356.691.181 |      |
+| Công ty TNHH Truyền thông FPT       | 550.269.006 |      |
+|                                      |            |      |
+|                                      | 8.116.460.187 |      |
+
+20    DOANH THU THUẦN VỀ CUNG CẤP DỊCH VỤ
+
+|                                              | 2022            | 2021            |
+| :------------------------------------------- | :-------------- | :-------------- |
+|                                              | VND             | VND             |
+|                                              |                 |                 |
+| Doanh thu                                    |                 |                 |
+| Doanh thu dịch vụ quảng cáo                 | 761.074.759.266 | 591.580.326.690 |
+| Doanh thu khác                               | 25.345.325.847  | 26.513.430.051  |
+|                                              |                 |                 |
+|                                              | 786.420.085.113 | 618.093.756.741 |
+|                                              |                 |                 |
+| Các khoản giảm trừ                           |                 |                 |
+| Chiết khấu thương mại                       | (10.749.125.930) | (10.185.546.330) |
+| Dịch vụ bị trả lại                           | (242.300.000)   | (170.409.091)   |
+|                                              |                 |                 |
+|                                              | (10.991.425.930) | (10.355.955.421) |
+|                                              |                 |                 |
+| Doanh thu thuần về cung cấp dịch vụ          |                 |                 |
+| Doanh thu thuần về dịch vụ quảng cáo         | 750.083.333.336 | 581.224.371.269 |
+| Doanh thu thuần khác                         | 25.345.325.847  | 26.513.430.051  |
+|                                              |                 |                 |
+|                                              | 775.428.659.183 | 607.737.801.320 |
+
+29
+
+===== PAGE 2 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+21    GIÁ VỐN DỊCH VỤ ĐÃ CUNG CẤP
+
+|                            | 2022            | 2021            |
+| :------------------------- | :-------------- | :-------------- |
+|                            | VND             | VND             |
+|                            |                 |                 |
+| Giá vốn dịch vụ quảng cáo | 296.204.763.217 | 172.872.660.848 |
+| Giá vốn khác              | 12.955.379.945  | 14.350.007.852  |
+|                            |                 |                 |
+|                            | 309.160.143.162 | 187.222.668.700 |
+
+22    DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+|                                           | 2022           | 2021           |
+| :---------------------------------------- | :------------- | :------------- |
+|                                           | VND            | VND            |
+|                                           |                |                |
+| Lãi tiền gửi                              | 31.271.531.405 | 19.474.887.614 |
+| Lãi chênh lệch tỷ giá hối đoái đã thực hiện | 1.293.032.200  | 2.886.170.607  |
+| Lãi thuần do đánh giá lại các khoản có    |                |                |
+| gốc ngoại tệ cuối năm                     | 1.179.059.306  |                |
+|                                           |                |                |
+|                                           | 33.743.622.911 | 22.361.058.221 |
+
+23    CHI PHÍ BÁN HÀNG
+
+|                                       | 2022            | 2021            |
+| :------------------------------------ | :-------------- | :-------------- |
+|                                       | VND             | VND             |
+|                                       |                 |                 |
+| Chi phí nhân công                     | 91.919.098.525  | 69.398.775.211  |
+| Chi phí hoa hồng, tiếp thị và khuyến mãi | 13.527.083.592  | 22.018.299.938  |
+| Chi phí dịch vụ thuê ngoài             | 185.892.263   | 2.035.093.481   |
+| Chi phí nguyên vật liệu, đồ dùng       | 431.377.038   | 223.570.881   |
+| Chi phí khấu hao TSCĐ                 | 150.686.763   |                 |
+| Khác                                  | 267.729.636   | 420.851.763   |
+|                                       |                 |                 |
+|                                       | 106.358.767.817 | 94.096.591.274  |
+
+24    CHI PHÍ QUẢN LÝ DOANH NGHIỆP
+
+|                                       | 2022           | 2021           |
+| :------------------------------------ | :------------- | :------------- |
+|                                       | VND            | VND            |
+|                                       |                |                |
+| Chi phí nhân công                     | 58.416.122.201 | 47.332.294.533 |
+| Chi phí dịch vụ mua ngoài              | 16.690.880.911 | 12.293.321.130 |
+| Chi phí nguyên vật liệu, đồ dùng       | 5.484.284.615  | 3.918.612.062  |
+| Dự phòng phải thu khó đòi             | 2.097.514.354  | 485.864.858  |
+| Chi phí khấu hao TSCĐ                 | 1.511.944.809  | 1.447.614.879  |
+| Khác                                  | 700.037.741  | 600.081.098  |
+|                                       |                |                |
+|                                       | 84.840.004.630 | 66.086.188.360 |
+
+30
+
+===== PAGE 3 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+25    THUẾ THU NHẬP DOANH NGHIỆP (“TNDN”)
+
+       Số thuế TNDN trên lợi nhuận kế toán trước thuế của Công ty và công ty con khác với số
+       thuế khi được tính theo thuế suất 20% theo quy định của luật thuế hiện hành như sau:
+
+|                                                | 2022            | 2021            |
+| :--------------------------------------------- | :-------------- | :-------------- |
+|                                                | VND             | VND             |
+|                                                |                 |                 |
+| Lợi nhuận kế toán trước thuế                   | 309.259.993.435 | 276.184.288.086 |
+|                                                |                 |                 |
+| Thuế tính ở thuế suất 20%                      | 61.851.998.688  | 55.236.857.617  |
+| Điều chỉnh:                                    |                 |                 |
+| Chênh lệch tạm thời mà không ghi nhận         |                 |                 |
+| thuế TNDN hoãn lại                             |                 | 847.446.019   |
+| Lỗ tính thuế mà không ghi nhận tài sản        |                 |                 |
+| thuế thu nhập hoãn lại                        | 411.000         | 400.000         |
+|                                                |                 |                 |
+| Chi phí thuế TNDN (*)                          | 61.852.409.688  | 56.084.703.636  |
+
+       Chi phí/(thu nhập) thuế TNDN ghi nhận trong báo
+       cáo kết quả hoạt động kinh doanh hợp nhất:
+
+|                                      | 2022           | 2021           |
+| :----------------------------------- | :------------- | :------------- |
+|                                      | VND            | VND            |
+|                                      |                |                |
+| Thuế TNDN - hiện hành                | 61.616.597.826 | 56.403.664.746 |
+| Thuế TNDN - hoãn lại (**)            | 235.811.862  | (318.961.110)  |
+|                                      |                |                |
+|                                      | 61.852.409.688 | 56.084.703.636 |
+
+       (*) Chi phí thuế TNDN cho kỳ kế toán được ước tính dựa vào thu nhập chịu thuế và có
+       thể có những điều chỉnh tùy thuộc vào sự kiểm tra của cơ quan thuế.
+
+       (**) Tài sản thuế TNDN hoãn lại và thuế TNDN hoãn lại phải trả được bù trừ khi Công ty
+       có quyền hợp pháp được bù trừ giữa tài sản thuế TNDN hiện hành với thuế TNDN
+       hiện hành phải trả và khi thuế TNDN hoãn lại có liên quan đến cùng một cơ quan
+       thuế. Chi tiết như sau:
+
+|                                          | 2022           | 2021           |
+| :--------------------------------------- | :------------- | :------------- |
+|                                          | VND            | VND            |
+|                                          |                |                |
+| Tài sản thuế thu nhập hoãn lại:          |                |                |
+| Tài sản thuế thu nhập hoãn lại được thu |                |                |
+| hồi trong vòng 12 tháng                  | 83.149.248   | 318.961.110  |
+
+31
+
+===== PAGE 4 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+25    THUẾ THU NHẬP DOANH NGHIỆP (“TNDN”) (tiếp theo)
+
+       Biến động về thuế TNDN hoãn lại, được bù trừ các số dư liên quan đến cùng một cơ
+       quan thuế, trong năm như sau:
+
+|                                                  | 2022           | 2021           |
+| :----------------------------------------------- | :------------- | :------------- |
+|                                                  | VND            | VND            |
+|                                                  |                |                |
+| Số dư đầu năm                                    | 318.961.110  | 3.579.475.965  |
+| Ghi nhận vào báo cáo kết quả hoạt                |                |                |
+| động kinh doanh hợp nhất                         | (235.811.862)  | 318.961.110    |
+| Ghi tăng vào vốn chủ sở hữu                      |                | (3.579.475.965) |
+|                                                  |                |                |
+| Số dư cuối năm                                   | 83.149.248   | 318.961.110  |
+
+       Tài sản thuế TNDN hoãn lại tại ngày 31 tháng 12 năm 2022 và ngày 31 tháng 12 năm
+       2021 bao gồm các khoản chênh lệch tạm thời được khấu trừ.
+
+       Thuế suất thuế TNDN sử dụng để xác định giá trị tài sản thuế TNDN hoãn lại và thuế
+       TNDN hoãn lại phải trả năm 2022 và 2021 là 20%.
+
+       Tài sản thuế TNDN hoãn lại được ghi nhận dựa trên khả năng thu được thu nhập chịu
+       thuế trong tương lai để cấn trừ các khoản chênh lệch tạm thời đã phát sinh này.
+
+26    CHI PHÍ KINH DOANH THEO YẾU TỐ
+
+       Chi phí kinh doanh theo yếu tố thể hiện các chi phí phát sinh trong năm từ hoạt động kinh
+       doanh của Công ty và công ty con. Chi tiết được trình bày như sau:
+
+|                                    | 2022            | 2021            |
+| :--------------------------------- | :-------------- | :-------------- |
+|                                    | VND             | VND             |
+|                                    |                 |                 |
+| Chi phí dịch vụ mua ngoài           | 317.081.217.454 | 194.943.473.618 |
+| Chi phí nhân công                  | 150.336.120.726 | 116.731.069.744 |
+| Chi phí khấu hao TSCĐ              | 4.469.351.185   | 2.615.790.850   |
+| Các chi phí khác                   | 28.472.222.444  | 33.115.114.122  |
+|                                    |                 |                 |
+|                                    | 500.358.911.809 | 347.405.448.334 |
+
+27    BÁO CÁO BỘ PHẬN LĨNH VỰC KINH DOANH VÀ KHU VỰC ĐỊA LÝ
+
+       Hoạt động kinh doanh chủ yếu của Công ty và công ty con là cung cấp dịch vụ quảng
+       cáo thông qua các trang báo điện tử trực tuyến và Công ty không có bất cứ hoạt động
+       kinh doanh ở ngoài lãnh thổ Việt Nam. Rủi ro và lợi nhuận kinh lõi của Công ty và công ty
+       con không bị ảnh hưởng bởi những khác biệt về lĩnh vực kinh doanh mà Công ty và công
+       ty con cung cấp hoặc do khu vực địa lý mà Công ty và công ty con hoạt động. Do đó,
+       Tổng Giám đốc của Công ty nhận định là các lĩnh vực kinh doanh khác của Công ty và
+       công ty con không có ảnh hưởng đáng kể theo hoạt động kinh doanh và khu vực địa lý.
+       Theo đó, thông tin theo bộ phận không được trình bày.
+
+32
+
+===== PAGE 5 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+28    THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN
+
+       Công ty được kiểm soát bởi Công ty Cổ phần Viễn thông FPT (“Tập đoàn”) do Công ty
+       mẹ nắm giữ 56,51% vốn cổ phần của Công ty. Công ty mẹ cao nhất là Công ty Cổ phần
+       FPT, một công ty được thành lập tại Việt Nam.
+
+       Chi tiết của các bên liên quan chính và mối quan hệ như sau:
+
+| Bên liên quan (*)                                        | Mối quan hệ                                |
+| :------------------------------------------------------- | :----------------------------------------- |
+| Công ty Cổ phần FPT                                     | Công ty mẹ tối hậu                          |
+| Công ty Cổ phần Viễn thông FPT                          | Công ty mẹ                                  |
+| Công ty Cổ phần Hệ thống Thông tin FPT                  | Công ty thành viên cùng Tập đoàn            |
+| Công ty TNHH Đầu tư và Phát triển Hệ thống              | Công ty thành viên cùng Tập đoàn            |
+| Dẫn đầu qua mạng Quốc Gia                               |                                            |
+| Công ty TNHH FPT Digital                                 | Công ty thành viên cùng Tập đoàn            |
+| Công ty TNHH FPT Smart Cloud                             | Công ty thành viên cùng Tập đoàn            |
+| Công ty TNHH Hệ thống Thông tin FPT                      | Công ty thành viên cùng Tập đoàn            |
+| Công ty TNHH MTV Viễn thông FPT Tân Thuận              | Công ty thành viên cùng Tập đoàn            |
+| Công ty TNHH MTV Viễn thông Quốc tế FPT                  | Công ty thành viên cùng Tập đoàn            |
+| Công ty TNHH Phần mềm FPT                                | Công ty thành viên cùng Tập đoàn            |
+| Công ty TNHH FPT Quy Nhơn                                | Công ty thành viên cùng Tập đoàn            |
+| Công ty TNHH Truyền hình FPT                             | Công ty thành viên cùng Tập đoàn            |
+| Trường Đại học FPT                                      | Công ty thành viên cùng Tập đoàn            |
+| Trường Trung học Phổ thông FPT                          | Công ty thành viên cùng Tập đoàn            |
+| Công ty Cổ phần Bán lẻ Kỹ thuật số FPT                  | Công ty liên kết của Công ty mẹ tối hậu    |
+| Công ty TNHH Phân phối Synnex FPT                        | Bên liên quan khác                         |
+| Công ty Cổ phần Dược phẩm FPT Long Châu                  | Bên liên quan khác                         |
+| Công ty Cổ phần Giáo dục Trực tuyến Funix               | Bên liên quan khác                         |
+| (đến ngày 13 tháng 9 năm 2022)                           |                                            |
+| Công ty Cổ phần Quản lý Quỹ đầu tư FPT                  | Bên liên quan khác                         |
+| Công ty TNHH Dịch vụ tin học FPT                         | Bên liên quan khác                         |
+| Công ty TNHH Đầu tư FF                                  | Bên liên quan khác                         |
+| Công ty TNHH Thương mại FPT                              | Bên liên quan khác                         |
+| Công ty TNHH Sản phẩm Công nghệ FPT                      | Bên liên quan khác                         |
+
+       (*) Số liệu của bên liên quan được trình bày trong thuyết minh này bao gồm số liệu của
+       công ty và công ty thành viên trực thuộc công ty đó (nếu có).
+
+33
+
+===== PAGE 6 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+28    THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (tiếp theo)
+
+(a)   Giao dịch với các bên liên quan
+
+       Các giao dịch chủ yếu với các bên liên quan phát sinh trong năm gồm:
+
+|                                          | 2022            | 2021            |
+| :--------------------------------------- | :-------------- | :-------------- |
+|                                          | VND             | VND             |
+|                                          |                 |                 |
+| i) Doanh thu cung cấp dịch vụ            |                 |                 |
+| Công ty Cổ phần viễn thông FPT          | 6.930.006.030   | 4.406.541.383   |
+| Công ty Cổ phần FPT                      | 4.740.924.952   | 3.775.616.250   |
+| Công ty TNHH Dược phẩm FPT Long Châu    | 4.661.606.482   |                 |
+| Công ty TNHH MTV Viễn thông Quốc tế FPT  | 3.080.601.094   | 3.350.770.380   |
+| Công ty Cổ phần Bán lẻ Kỹ thuật số FPT  | 1.994.370.201   | 888.271.493     |
+| Công ty TNHH Phần mềm FPT Quy Nhơn      | 1.660.354.737   |                 |
+| Công ty TNHH FPT Smart Cloud             | 1.237.393.492   | 138.846.957     |
+| Công ty TNHH Phân phối Synnex FPT        | 1.194.345.000   |                 |
+| Công ty TNHH Phần mềm FPT                | 486.900.982     | 57.401.182      |
+| Trường Đại học FPT                      | 370.370.370     | 393.636.364     |
+| Công ty TNHH FPT Digital                 | 282.500.000     |                 |
+| Công ty Cổ phần Giáo dục Trực tuyến Funix | 24.000.000      |                 |
+| Trường Trung học Phổ thông FPT          |                 | 93.750.000      |
+|                                          |                 |                 |
+|                                          | 26.773.273.440  | 13.081.834.009  |
+|                                          |                 |                 |
+| ii) Mua hàng hóa và dịch vụ              |                 |                 |
+| Công ty Cổ phần FPT                      | 5.403.080.674   | 3.946.111.672   |
+| Công ty TNHH MTV Viễn thông FPT Tân Thuận | 3.429.207.202   | 3.229.983.822   |
+| Công ty Cổ phần Viễn thông FPT          | 2.417.404.723   | 95.550.000      |
+| Công ty Cổ phần Bán lẻ Kỹ thuật số FPT  | 2.361.242.018   | 394.751.142     |
+| Công ty TNHH Phân phối Synnex FPT        | 1.901.553.183   | 252.195.453     |
+| Công ty TNHH Hệ thống Thông tin FPT      | 1.511.218.220   | 12.096.236.070  |
+| Công ty Cổ phần Dược phẩm FPT Long Châu  | 1.429.869.029   | 337.143         |
+| Công ty TNHH FPT Smart Cloud             | 1.017.882.209   | 40.990.890      |
+| Công ty TNHH Truyền hình FPT             | 327.272.728     | 556.363.636     |
+| Công ty TNHH MTV Viễn thông Quốc tế FPT  | 57.984.316      | 10.620.892      |
+| Công ty Cổ phần Quản lý Quỹ đầu tư FPT  | 22.848.000      | 22.631.000      |
+| Công ty TNHH Dịch vụ tin học FPT         | 8.270.000       | 14.855.000      |
+| Công ty TNHH Đầu tư và Phát triển Hệ thống |                 |                 |
+| Dẫn đầu qua mạng Quốc Gia                | 200.000         |                 |
+|                                          |                 |                 |
+|                                          | 20.177.768.052  | 20.620.535.390  |
+
+34
+
+===== PAGE 7 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+28    THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (tiếp theo)
+
+(a)   Giao dịch với các bên liên quan (tiếp theo)
+
+|                                              | 2022           | 2021           |
+| :------------------------------------------- | :------------- | :------------- |
+|                                              | VND            | VND            |
+|                                              |                |                |
+| iii) Các khoản chi cho các nhân sự quản lý chủ chốt |                |                |
+| Nguyễn Thị Hải - Chủ tịch                     | 1.820.000.000  | 1.761.000.000  |
+| Ngô Mạnh Cường - Tổng giám đốc              | 1.560.000.000  | 1.487.000.000  |
+| Lã Thị Thanh Hằng - Kế toán trưởng           | 1.040.000.000  | 830.000.000    |
+| Thang Đức Thắng - Chủ tịch                   |                | 1.181.000.000  |
+|                                              |                |                |
+| Lương và các quyền lợi gộp khác              | 4.420.000.000  | 5.259.000.000  |
+|                                              |                |                |
+|       Các thành viên khác của Hội đồng quản trị, và Ban kiểm soát của Công ty và công ty
+       con không nhận thù lao, lương và các quyền lợi gộp khác từ Công ty và công ty
+       con.
+
+|                                         | 2022            | 2021            |
+| :-------------------------------------- | :-------------- | :-------------- |
+|                                         | VND             | VND             |
+|                                         |                 |                 |
+| iv) Chi trả cổ tức bằng tiền             |                 |                 |
+| Công ty Cổ phần FPT                     | 35.157.520.000  | 87.893.800.000  |
+| Công ty Cổ phần Viễn thông FPT         | 83.277.576.000  | 208.193.940.000 |
+| Cổ đông khác                            | 28.922.965.200  | 72.307.413.000  |
+|                                         |                 |                 |
+|                                         | 147.358.061.200 | 368.395.153.000 |
+
+(b)   Số dư cuối năm với các bên liên quan
+
+|                | 31.12.2022     | 31.12.2021     |
+| :------------- | :------------- | :------------- |
+|                | VND            | VND            |
+|                |                |                |
+| i) Đầu tư nắm giữ đến ngày đáo hạn (Thuyết minh 4) |                |                |
+| Công ty Cổ phần Quản lý Quỹ đầu tư FPT | 1.850.000.000  | 1.850.000.000  |
+| Công ty TNHH Đầu tư FF                 | 150.000.000    | 150.000.000    |
+|                |                |                |
+|                | 2.000.000.000  | 2.000.000.000  |
+
+|                                          | 2022            | 2021            |
+| :--------------------------------------- | :-------------- | :-------------- |
+|                                          | VND             | VND             |
+|                                          |                 |                 |
+| ii) Phải thu ngắn hạn của khách hàng (Thuyết minh 5) |                 |                 |
+| Công ty TNHH FPT Smart Cloud             | 1.290.000.600   |                 |
+| Công ty Cổ phần FPT                      | 1.166.670.000   | 951.598.450     |
+| Công ty Cổ phần Dược phẩm FPT Long Châu  | 671.040.000     |                 |
+| Công ty Cổ phần Viễn thông FPT          | 285.012.000     | 697.304.948     |
+| Công ty Cổ phần Bán lẻ Kỹ thuật số FPT  | 248.514.400     | 68.750.000      |
+| Công ty TNHH MTV Viễn thông Quốc tế FPT  | 30.088.000      | 313.054.226     |
+| Công ty TNHH FPT Digital                 | 27.000.000      |                 |
+|                                          |                 |                 |
+|                                          | 3.559.844.590   | 2.030.707.626   |
+
+35
+
+===== PAGE 8 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+28    THUYẾT MINH VỀ CÁC BÊN LIÊN QUAN (tiếp theo)
+
+(b)   Số dư cuối năm với các bên liên quan (tiếp theo)
+
+|                | 31.12.2022    | 31.12.2021    |
+| :------------- | :------------ | :------------ |
+|                | VND           | VND           |
+|                |               |               |
+| iii) Trả trước cho nhà cung cấp |               |               |
+| Công ty TNHH MTV Viễn thông FPT Tân Thuận | 602.100.000   | 602.100.000   |
+
+|                                          | 2022            | 2021            |
+| :--------------------------------------- | :-------------- | :-------------- |
+|                                          | VND             | VND             |
+|                                          |                 |                 |
+| iv) Phải trả người bán ngắn hạn (Thuyết minh 11) |                 |                 |
+| Công ty Cổ phần Viễn thông FPT          | 2.118.454.508   | 2.215.254.508   |
+| Công ty TNHH FPT Smart Cloud             | 1.074.000.600   |                 |
+| Công ty Cổ phần Bán lẻ Kỹ thuật số FPT  | 948.850.000     | 25.490.000      |
+| Công ty Cổ phần FPT                      | 66.193.004      | 87.541.766      |
+| Công ty TNHH FPT Smart Cloud             | 22.466.000      | 22.631.000      |
+| Công ty TNHH MTV Viễn thông Quốc tế FPT  | 44.000          | 2.635.224       |
+| Công ty Cổ phần Hệ thống Thông tin FPT    |                 | 2.489.660.800   |
+|                                          |                 |                 |
+|                                          | 4.228.009.102   | 4.843.213.298   |
+
+|                                              | 2022 | 2021          |
+| :------------------------------------------- | :--- | :------------ |
+|                                              | VND  | VND           |
+|                                              |      |               |
+| v) Người mua trả tiền trước ngắn hạn (Thuyết minh 12) |      |               |
+| Chi nhánh Công ty Cổ phần Viễn thông FPT    |      | 28.550.000    |
+| Công ty TNHH Phần phối Synnex FPT            |      | 238.794       |
+|                                              |      |               |
+|                                              |      | 28.788.794    |
+
+29    CAM KẾT THUÊ HOẠT ĐỘNG
+
+(a)   Công ty và công ty con là bên đi thuê
+
+       Công ty và công ty con phải trả mức tối thiểu cho các hợp đồng thuê hoạt động không
+       hủy ngang trong tương lai như sau:
+
+|                                      | Thuê văn phòng  | Thuê văn phòng  |
+| :----------------------------------- | :-------------- | :-------------- |
+|                                      | 2022            | 2021            |
+|                                      | VND             | VND             |
+|                                      |                 |                 |
+| Dưới 1 năm                          | 12.920.400.900  | 12.661.519.200  |
+| Từ 1 đến 5 năm                       | 19.380.601.350  | 18.992.278.800  |
+|                                      |                 |                 |
+| Tổng cộng các khoản thanh toán tối thiểu | 32.301.002.250  | 31.653.798.000  |
+
+36
+
+===== PAGE 9 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN/HN
+
+29    CAM KẾT THUÊ HOẠT ĐỘNG (tiếp theo)
+
+(b)   Công ty và công ty con là bên cho thuê
+
+       Công ty và công ty con đã ký hợp đồng cho thuê hoạt động với các bên liên quan, theo
+       đó khoản tiền thuê tối thiểu phải thu trong tương lai của hợp đồng thuê hoạt động
+       không hủy ngang như sau:
+
+|                                      | Cho thuê văn phòng | Cho thuê văn phòng |
+| :----------------------------------- | :----------------- | :----------------- |
+|                                      | 2022               | 2021               |
+|                                      | VND                | VND                |
+|                                      |                    |                    |
+| Dưới 1 năm                          | 2.245.892.000      | 12.007.298.400     |
+| Từ 1 đến 5 năm                       |                    | 2.245.892.000      |
+|                                      |                    |                    |
+| Tổng cộng các khoản phải thu tối thiểu | 2.245.892.000      | 14.253.190.400     |
+
+30    CÁC CAM KẾT KHÁC
+
+|                                          | 2022          | 2021          |
+| :--------------------------------------- | :------------ | :------------ |
+|                                          | VND           | VND           |
+|                                          |               |               |
+| Bảo lãnh thực hiện hợp đồng và tạm ứng | 103.026.000 | 1.600.896.000 |
+
+       Công ty và công ty con có các thư bảo lãnh còn hiệu lực được ký kết với ngân hàng trong
+       nước để đảm bảo thực hiện hợp đồng và tạm ứng.
+
+       Báo cáo tài chính hợp nhất đã được Tổng Giám đốc phê chuẩn ngày 3 tháng 3 năm 2023.
+
+[Signature: Nguyễn Ngọc Duy Sinh]             [Signature: Lã Thị Thanh Hằng]                 [Signature: Ngô Mạnh Cường]
+Nguyễn Ngọc Duy Sinh                         Lã Thị Thanh Hằng                              Ngô Mạnh Cường
+Người lập                                   Kế toán trưởng                                 Tổng Giám đốc
+[Red circular seal: CÔNG TY CP DỊCH VỤ TRỰC TUYẾN FPT Online]
+
+37

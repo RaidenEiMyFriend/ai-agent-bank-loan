@@ -1,0 +1,126 @@
+Phân tích Tín dụng Doanh nghiệp
+
+1. Tổng hợp thông tin pháp lý
+
+1.1. Thông tin từ Giấy phép thành lập doanh nghiệp (final_1.4.txt)
+    Công ty được đề cập: CÔNG TY CỔ PHẦN FPT
+    Mã số doanh nghiệp: 0101248141
+    Ngày thành lập: 26 tháng 04 năm 2021
+    Địa chỉ: Số 10 phố Phạm Văn Bạch, Phường Dịch Vọng, Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam
+    Ngành nghề kinh doanh: Không có số liệu cụ thể trong tài liệu trích xuất.
+    Vốn điều lệ: 7.839.874.860.000 đồng
+    Người đại diện theo pháp luật: TRƯƠNG GIA BÌNH (Chủ tịch Hội đồng Quản trị), NGUYỄN VĂN KHOA (Tổng Giám đốc).
+
+1.2. Thông tin từ Điều lệ công ty (final_2.1.txt)
+    Công ty được đề cập: Công ty Cổ phần FPT
+    Loại hình công ty: Công ty Cổ phần
+    Vốn điều lệ: 10.970.265.720.000 đồng (Lưu ý: Có sự khác biệt về Vốn điều lệ so với Giấy phép thành lập doanh nghiệp, có thể do thay đổi Điều lệ sau khi đăng ký ban đầu).
+    Người đại diện theo pháp luật: Công ty có hai (02) người đại diện theo pháp luật là Chủ tịch Hội đồng Quản trị (Trương Gia Bình) và Tổng Giám đốc (không có tên cụ thể trong bản trích xuất Điều lệ, nhưng Giấy phép xác định là Nguyễn Văn Khoa).
+    Quyền hạn của người đại diện: Được quy định chi tiết cho từng đối tượng (Cổ đông, Thành viên Hội đồng Quản trị, Thành viên Ban Kiểm soát, Tổng Giám đốc và các cán bộ quản lý khác) trong các điều khoản tương ứng của Điều lệ.
+    Cơ cấu góp vốn, các cổ đông chính: Tài liệu chỉ liệt kê chung chung "Nhiều cổ đông sáng lập" và một ví dụ (Bộ Tài chính cử người quản lý phần vốn nhà nước là ông Nguyễn Trường Gia Bình), không cung cấp chi tiết toàn bộ cơ cấu góp vốn và cổ đông chính.
+
+1.3. Thông tin từ Báo cáo tài chính (final_3.1.txt, final_3.4.txt, final_3.5.txt)
+    Lưu ý quan trọng: Các Báo cáo tài chính được cung cấp là của CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT. Đây là một công ty con của CÔNG TY CỔ PHẦN FPT (theo thông tin "Công ty mẹ tối hậu" trong Báo cáo tài chính). Phân tích tài chính dưới đây sẽ tập trung vào CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT.
+
+    Công ty được phân tích tài chính: CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+    Mã số đăng ký doanh nghiệp (từ BCTC 2024): Số 0305045911 (Giấy chứng nhận đăng ký doanh nghiệp thay đổi gần nhất lần thứ 16 ngày 06/11/2023).
+    Địa chỉ trụ sở chính: Lô L 29B-31B-33B, Đường Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh, Việt Nam.
+    Ngành nghề kinh doanh chính: Cung cấp dịch vụ viễn thông, dịch vụ quảng cáo trực tuyến, dịch vụ truy cập internet, dịch vụ truy cập dữ liệu, dịch vụ xử lý số liệu và thông tin trên mạng internet, dịch vụ trao đổi dữ liệu điện tử, kinh doanh các trò chơi điện tử và các dịch vụ trực tuyến khác.
+    Vốn góp của chủ sở hữu: 184.712.750.000 VND (ổn định qua các năm báo cáo tài chính).
+    Người đại diện theo pháp luật: Bà Nguyễn Thị Hải (Chủ tịch Hội đồng Quản trị), Ông Ngô Mạnh Cường (Tổng Giám đốc).
+    Cơ cấu sở hữu vốn (theo BCTC năm 2024):
+        Công ty Cổ phần Viễn thông FPT (Công ty mẹ trực tiếp): 56,51%
+        Công ty Cổ phần FPT (Công ty mẹ tối hậu): 23,86%
+        Các cổ đông khác: 19,63%
+
+1.4. Thông tin từ Căn cước công dân (imageupload_chunk1.txt)
+    Người được trích xuất CCCD: TRƯƠNG ANH NGỌC
+    Số CCCD: #####
+    Ngày sinh: 20/12/2003
+    Lưu ý: Tên trên CCCD (TRƯƠNG ANH NGỌC) không trùng khớp với tên của Người đại diện theo pháp luật của CÔNG TY CỔ PHẦN FPT (TRƯƠNG GIA BÌNH, NGUYỄN VĂN KHOA) hay của CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT (NGUYỄN THỊ HẢI, NGÔ MẠNH CƯỜNG). Cần xác minh thêm vai trò của cá nhân này nếu đây là hồ sơ người bảo lãnh hoặc người liên quan khác.
+
+2. Phân tích tình hình tài chính của CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT (Đơn vị: VND)
+
+Các chỉ tiêu tài chính cơ bản:
+
+Chỉ tiêu                        2022                 2023                 2024
+Doanh thu thuần             775,428,659,183      619,958,476,388      704,503,127,877
+Lợi nhuận sau thuế TNDN    247,407,583,747      117,385,176,556      132,828,034,428
+Tổng tài sản               960,318,795,082      905,385,408,757      979,247,955,307
+Tổng nợ phải trả           239,306,024,708      174,437,101,580      165,594,185,154
+Vốn chủ sở hữu             721,012,770,374      730,948,307,177      813,653,770,162
+Tài sản ngắn hạn           889,615,495,995      844,257,145,260      928,372,507,103
+Nợ ngắn hạn                 239,306,024,708      174,154,998,830      164,656,498,931
+Dòng tiền thuần từ HĐKD    168,595,325,299        1,684,234,774       78,648,210,443
+
+Phân tích tỷ lệ tài chính:
+
+a. Hệ số thanh toán hiện hành (Tài sản ngắn hạn / Nợ ngắn hạn)
+    2022: 889,615,495,995 / 239,306,024,708 = 3.72 lần
+    2023: 844,257,145,260 / 174,154,998,830 = 4.85 lần
+    2024: 928,372,507,103 / 164,656,498,931 = 5.64 lần
+    So sánh các chỉ tiêu theo năm: Hệ số thanh toán hiện hành tăng đều qua các năm, từ 3.72 lần năm 2022 lên 5.64 lần năm 2024. Điều này cho thấy khả năng thanh toán nợ ngắn hạn của công ty rất tốt và đang được cải thiện liên tục, phản ánh tình hình tài chính ngắn hạn lành mạnh.
+
+b. Hệ số nợ trên vốn chủ sở hữu (D/E = Tổng nợ phải trả / Tổng vốn chủ sở hữu)
+    2022: 239,306,024,708 / 721,012,770,374 = 0.33 lần
+    2023: 174,437,101,580 / 730,948,307,177 = 0.24 lần
+    2024: 165,594,185,154 / 813,653,770,162 = 0.20 lần
+    So sánh các chỉ tiêu theo năm: Hệ số D/E giảm mạnh từ 0.33 lần năm 2022 xuống 0.20 lần năm 2024. Xu hướng này rất tích cực, cho thấy công ty đang giảm dần sự phụ thuộc vào nợ vay, tăng cường vốn chủ sở hữu và củng cố cơ cấu tài chính, giảm rủi ro về nợ.
+
+c. ROE (Lợi nhuận sau thuế / Tổng vốn chủ sở hữu)
+    2022: 247,407,583,747 / 721,012,770,374 = 34.31%
+    2023: 117,385,176,556 / 730,948,307,177 = 16.06%
+    2024: 132,828,034,428 / 813,653,770,162 = 16.32%
+    So sánh các chỉ tiêu theo năm: ROE có sự sụt giảm đáng kể từ 34.31% năm 2022 xuống 16.06% năm 2023, sau đó tăng nhẹ lên 16.32% năm 2024. Mặc dù có dấu hiệu phục hồi nhẹ vào năm 2024, nhưng hiệu quả sử dụng vốn chủ sở hữu để tạo ra lợi nhuận đã giảm mạnh so với đỉnh cao năm 2022. Đây là một dấu hiệu cần theo dõi về hiệu quả kinh doanh.
+
+d. ROA (Lợi nhuận sau thuế / Tổng tài sản)
+    2022: 247,407,583,747 / 960,318,795,082 = 25.76%
+    2023: 117,385,176,556 / 905,385,408,757 = 12.97%
+    2024: 132,828,034,428 / 979,247,955,307 = 13.56%
+    So sánh các chỉ tiêu theo năm: Tương tự ROE, ROA cũng giảm mạnh từ 25.76% năm 2022 xuống 12.97% năm 2023, sau đó tăng nhẹ lên 13.56% năm 2024. Điều này cho thấy hiệu quả sử dụng tổng tài sản để tạo ra lợi nhuận giảm sút trong giai đoạn 2022-2023 nhưng đã có sự cải thiện nhẹ trong năm gần nhất. Xu hướng này cần được đánh giá kỹ lưỡng về nguyên nhân và tính bền vững của sự phục hồi.
+
+e. Dòng tiền thuần từ hoạt động kinh doanh (DTT HĐKD)
+    2022: 168,595,325,299 VND
+    2023: 1,684,234,774 VND
+    2024: 78,648,210,443 VND
+    So sánh các chỉ tiêu theo năm: Dòng tiền thuần từ hoạt động kinh doanh biến động rất lớn. Giảm mạnh từ 168.6 tỷ VND năm 2022 xuống chỉ còn 1.68 tỷ VND năm 2023, sau đó phục hồi đáng kể lên 78.6 tỷ VND năm 2024. Sự sụt giảm cực mạnh vào năm 2023 là một dấu hiệu rủi ro lớn, cho thấy hoạt động cốt lõi gần như không tạo ra tiền trong năm đó. Tuy nhiên, sự phục hồi mạnh mẽ trong năm 2024 cho thấy khả năng tạo tiền từ hoạt động cốt lõi đã tốt trở lại, dù chưa đạt mức cao nhất năm 2022. Xu hướng phục hồi này là tích cực nhưng tính bền vững cần được theo dõi.
+
+3. Đánh giá dòng tiền và khả năng trả nợ
+
+3.1. Dòng tiền vào – ra từ sao kê ngân hàng (sử dụng final_4.3.txt làm tài liệu chính do có giao dịch gần nhất và chi tiết hơn)
+    Tên chủ tài khoản: CÔNG TY FPT (Lưu ý: Tên tài khoản chung chung, không xác định rõ là CÔNG TY CỔ PHẦN FPT hay CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT. Giả định đây là tài khoản hoạt động của một trong các đơn vị thuộc tập đoàn FPT).
+    Số tài khoản: 012345678900
+    Kỳ sao kê: Thông tin giao dịch được cung cấp từ 01/05/2025 đến 15/07/2025.
+    Tổng số tiền vào: 3,950,000,000 VND (áp dụng cho kỳ sao kê chính 01/05/2025 - 01/06/2025)
+    Tổng số tiền ra: 8,450,000,000 VND (áp dụng cho kỳ sao kê chính 01/05/2025 - 01/06/2025)
+    Số dư cuối kỳ (tại 01/06/2025 theo sao kê): 7,500,000,000 VND
+    Dòng tiền thuần trong kỳ (đến 01/06/2025): Tiền vào - Tiền ra = 3,950,000,000 - 8,450,000,000 = -4,500,000,000 VND. Điều này cho thấy trong kỳ sao kê chính (tháng 5), tổng chi lớn hơn tổng thu, dẫn đến giảm số dư tiền mặt.
+    Có bị âm tài khoản?: Số dư cuối kỳ của tài khoản (7.5 tỷ VND tại 01/06/2025) vẫn là số dương. Công ty không bị âm tài khoản trong giai đoạn này.
+    Giao dịch đều không?: Các giao dịch lớn (trên 1 tỷ VND) có vẻ diễn ra đều đặn, bao gồm các khoản thu từ dự án/khách hàng và các khoản chi cho nhà cung cấp/chi phí nhân sự/lương. Điều này phản ánh hoạt động kinh doanh thường xuyên của công ty. Tuy nhiên, dòng tiền âm trong tháng 5 cho thấy có sự mất cân bằng giữa thu và chi trong ngắn hạn.
+
+3.2. Hợp đồng lớn đang triển khai (final_5.2.txt)
+    Tên hợp đồng: HỢP ĐỒNG ĐẠI LÝ CUNG CẤP DỊCH VỤ INTERNET CÔNG CỘNG VÀ GIẢI PHÁP NHÀ THÔNG MINH
+    Bên A (Nhà cung cấp dịch vụ): CÔNG TY CỔ PHẦN VIỄN THÔNG FPT (FPT TELECOM)
+    Bên B (Khách hàng): CÔNG TY TNHH ABC
+    Giá trị hợp đồng: 10.000.000.000 VNĐ (Mười tỷ đồng chẵn)
+    Thời gian thực hiện: Bắt đầu triển khai 01/07/2025; Hoàn thành dự kiến 30/09/2025.
+    Điều khoản thanh toán: Chuyển khoản vào tài khoản của Bên A.
+    Lưu ý quan trọng: Hợp đồng này được ký bởi CÔNG TY CỔ PHẦN VIỄN THÔNG FPT (FPT TELECOM), là công ty mẹ trực tiếp của CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT. Do đó, dòng tiền từ hợp đồng này sẽ vào tài khoản của FPT TELECOM, không trực tiếp vào tài khoản của CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT.
+    Khả năng tạo dòng tiền đều trong tương lai: Mặc dù hợp đồng này không trực tiếp tạo dòng tiền cho đơn vị CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT, nhưng nó cho thấy khả năng tạo doanh thu và dòng tiền của tập đoàn FPT nói chung. Để đánh giá khả năng tạo dòng tiền đều trong tương lai của CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT, cần có thông tin về các hợp đồng lớn mà chính đơn vị này đang triển khai.
+
+4. Đánh giá tài sản bảo đảm
+
+4.1. Thông tin tài sản hiện có (final_7.1.txt)
+    Loại tài sản: Ô tô
+    Tên tài sản: Ô tô - FPT001
+    Chủ sở hữu: Công ty FPT (Lưu ý: Tên chủ sở hữu chung chung, không xác định rõ là CÔNG TY CỔ PHẦN FPT hay CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT).
+    Giá trị định giá: 50.000.000.000 VND
+    Năm mua / sản xuất: 2025 (cho thấy là tài sản mới).
+    Vị trí / địa chỉ tài sản: Số 123 đường XYZ, P.ABC, Q.1, TP.HCM
+
+4.2. Khả năng thế chấp và tính pháp lý
+    Tài sản nào có thể thế chấp?: Ô tô - FPT001 với giá trị định giá 50.000.000.000 VND.
+    Tính pháp lý: Tài liệu trích xuất không cung cấp thông tin về "Tình trạng pháp lý (sổ đỏ, hóa đơn, v.v.)" và "Giấy tờ sở hữu (số hiệu, ngày cấp, nơi cấp)". Đây là một thiếu sót nghiêm trọng trong hồ sơ tài sản bảo đảm. Để tài sản này có giá trị pháp lý làm tài sản bảo đảm cho khoản vay, cần phải có đầy đủ giấy tờ chứng minh quyền sở hữu hợp pháp của đơn vị vay (CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT) và không có bất kỳ tranh chấp hay vướng mắc pháp lý nào.
+
+4.3. Có đủ để đảm bảo khoản vay không?
+    Với giá trị định giá 50.000.000.000 VND, tài sản này có tiềm năng là một tài sản có giá trị lớn để bảo đảm khoản vay. Tuy nhiên, việc thiếu thông tin về tính pháp lý và giấy tờ sở hữu rõ ràng khiến cho việc đánh giá khả năng bảo đảm khoản vay bị hạn chế đáng kể. Nếu tài sản này thuộc sở hữu rõ ràng của CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT và có đầy đủ giấy tờ hợp pháp, nó có thể là một tài sản bảo đảm tốt tùy thuộc vào tỷ lệ cho vay trên giá trị tài sản (LTV) mà ngân hàng áp dụng và tổng giá trị khoản vay được đề xuất.

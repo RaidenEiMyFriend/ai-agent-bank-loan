@@ -1,0 +1,19 @@
+Các loại giấy tờ:
+    +) Giấy phép đăng ký kinh doanh:
+    Các files: final_1.4.txt. Thiếu: Thông tin doanh nghiệp/Ngành nghề kinh doanh chính
+    +) Điều lệ công ty:
+    Các files: final_2.1.txt. Thiếu: Thông tin cơ bản/Người đại diện theo pháp luật
+    +) Báo cáo tài chính:
+    Các files: final_3.1.txt, final_3.4.txt, final_3.5.txt.
+    Báo cáo cho các năm: 2024 2023 2022.
+    Thiếu: Năm 2022: Tóm tắt Bảng cân đối kế toán/Nợ dài hạn.
+    +) Sao kê ngân hàng:
+    Các files: final_4.2.txt, final_4.3.txt.
+    Báo có cho các tháng 05/2025
+    Thiếu: final_4.2.txt: Ngân hàng, Tổng số dư đầu kỳ, Ngày in sao kê, final_4.3.txt: Ngân hàng, Tổng số dư đầu kỳ, Ngày in sao kê. Yêu cầu tối thiểu 3 tháng gần nhất, mới chỉ có 1
+    +) Hợp đồng kinh tế lớn:
+    Các files: final_5.2.txt. Thiếu: Thông tin hợp đồng/Số hợp đồng, Thông tin hợp đồng/Ngày ký kết, Thông tin hợp đồng/Điều khoản phạt, bồi thường, Thông tin hợp đồng/Điều khoản giải quyết tranh chấp
+    +) CCCD người đại diện:
+    Các files: imageupload_chunk1.txt. Thiếu: Ngày cấp, Nơi cấp, Chức vụ tại doanh nghiệp. Chưa có mặt sau của CCCD, vui lòng upload thêm mặt sau.
+    +) Hồ sơ tài sản:
+    Các files: final_7.1.txt. Thiếu: Thông tin tài sản/Tình trạng pháp lý (sổ đỏ, hóa đơn, v.v.), Thông tin tài sản/Giấy tờ sở hữu (số hiệu, ngày cấp, nơi cấp), Thông tin tài sản/Mục đích sử dụng

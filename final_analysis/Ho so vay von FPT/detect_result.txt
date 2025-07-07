@@ -1,0 +1,15 @@
+Điều lệ công ty (final_2.1.txt):
+Điều lệ công ty: Điều lệ công ty không có dấu hiệu bị giả mạo chữ ký và con dấu của người đại diện công ty, trang 44.
+
+Báo cáo tài chính (final_3.1.txt):
+Báo cáo tài chính: Báo cáo tài chính không có dấu hiệu bị giả mạo chữ ký và con dấu.
+Điều lệ công ty: Không có hồ sơ Điều lệ công ty được cung cấp để kiểm tra.
+
+Báo cáo tài chính (final_3.4.txt):
+Báo cáo tài chính: Báo cáo tài chính không có dấu hiệu bị sửa chữ ký và con dấu.
+
+Báo cáo tài chính (final_3.5.txt):
+Báo cáo tài chính: Báo cáo tài chính không có dấu hiệu bị sửa chữ ký và con dấu của đại diện công ty cũng như bên kế toán (kiểm tra trên trang 2, 5, 6, 40).
+
+CCCD:
+Thiếu mặt sau của CCCD. Phát hiện nghi vấn CCCD bị dán ảnh do ảnh trong CCCD hiện tại có dấu hiệu chỉnh sửa (ảnh bị mờ, thiếu độ sắc nét so với tổng thể), ở mặt trước. Không thấy phần khác bị sửa.

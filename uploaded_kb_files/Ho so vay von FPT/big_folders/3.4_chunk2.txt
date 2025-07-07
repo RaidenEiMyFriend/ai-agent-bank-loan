@@ -1,0 +1,557 @@
+===== PAGE 1 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.15 Vốn chủ sở hữu
+
+(a) Vốn góp của chủ sở hữu
+    Vốn góp của chủ sở hữu được ghi nhận theo số thực tế góp của các cổ đông và được
+    phản ánh theo mệnh giá của cổ phiếu.
+
+(b) Thặng dư vốn cổ phần
+    Thặng dư vốn cổ phần là khoản chênh lệch giữa vốn góp theo mệnh giá cổ phiếu với giá
+    thực tế phát hành cổ phiếu; chênh lệch giữa giá mua lại cổ phiếu quỹ và giá tái phát hành
+    cổ phiếu quỹ.
+
+(c) Cổ phiếu quỹ
+    Cổ phiếu quỹ mua trước ngày hiệu lực của Luật Chứng khoán (ngày 1 tháng 1 năm 2021)
+    là cổ phiếu do Công ty phát hành và được mua lại bởi chính Công ty, nhưng chưa bị huỷ
+    bỏ và sẽ được tái phát hành trở lại trong khoảng thời gian theo quy định của pháp luật về
+    chứng khoán.
+    Cổ phiếu quỹ mua sau ngày 1 tháng 1 năm 2021 sẽ được hủy bỏ và điều chỉnh giảm vốn
+    chủ sở hữu.
+
+(d) LNST chưa phân phối
+    LNST chưa phân phối phản ánh kết quả kinh doanh sau thuế TNDN của Công ty tại thời
+    điểm báo cáo.
+
+2.16 Phân chia lợi nhuận
+    Cổ tức của Công ty được ghi nhận là một khoản phải trả trong báo cáo tài chính của năm
+    tài chính dựa vào ngày chốt danh sách cổ đông theo Nghị quyết của Hội đồng Quản trị
+    sau khi phương án chi trả cổ tức được thông qua tại Đại hội đồng Cổ đông.
+    LNST TNDN có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê
+    duyệt và sau khi đã trích lập các quỹ theo điều lệ của Công ty và các quy định của pháp
+    luật Việt Nam.
+    Quỹ trích lập quỹ khen thưởng, phúc lợi từ LNST TNDN của Công ty và được các cổ
+    đông phê duyệt tại Đại hội đồng Cổ đông. Quỹ được trình bày là một khoản phải trả trên
+    bảng cân đối kế toán. Quỹ được sử dụng để chi cho công tác khen thưởng, cải thiện
+    và nâng cao đời sống vật chất, tinh thần của người lao động.
+
+14
+
+===== PAGE 2 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.17 Ghi nhận doanh thu
+
+(a) Doanh thu cung cấp dịch vụ
+    Doanh thu cung cấp dịch vụ được ghi nhận trong báo cáo kết quả hoạt động kinh doanh
+    khi dịch vụ đã được cung cấp, bằng cách tính mức độ hoàn thành của từng giao dịch,
+    dựa trên cơ sở đánh giá tỉ lệ dịch vụ đã cung cấp so với tổng khối lượng dịch vụ phải
+    cung cấp. Doanh thu cung cấp dịch vụ chỉ được ghi nhận khi đồng thời thoả mãn bốn (4)
+    điều kiện sau:
+    *   Doanh thu được xác định tương đối chắc chắn;
+    *   Có khả năng thu được lợi ích kinh tế từ giao dịch cung cấp dịch vụ đó;
+    *   Xác định được phần công việc đã hoàn thành tại ngày của bảng cân đối kế toán; và
+    *   Xác định được chi phí phát sinh cho giao dịch và chi phí để hoàn thành giao dịch
+        cung cấp dịch vụ đó.
+
+(b) Thu nhập lãi
+    Tiền lãi được ghi nhận trong báo cáo kết quả hoạt động kinh doanh trên cơ sở thời gian
+    và lãi suất thực tế từng kỳ khi thỏa mãn đồng thời hai (2) điều kiện:
+    *   Có khả năng thu được lợi ích kinh tế từ giao dịch đó; và
+    *   Giá trị được xác định tương đối chắc chắn.
+
+2.18 Các khoản giảm trừ doanh thu
+    Các khoản giảm trừ doanh thu bao gồm chiết khấu thương mại và giảm giá dịch vụ. Các
+    khoản giảm trừ doanh thu phát sinh cùng năm tài chính tiêu thụ dịch vụ được ghi nhận
+    điều chỉnh giảm doanh thu năm tài chính phát sinh.
+    Các khoản giảm trừ doanh thu đối với dịch vụ tiêu thụ trong năm tài chính, phát sinh sau
+    ngày của bảng cân đối kế toán nhưng trước thời điểm phát hành báo cáo tài chính được
+    ghi nhận điều chỉnh giảm doanh thu của năm tài chính lập báo cáo.
+
+2.19 Giá vốn dịch vụ cung cấp
+    Giá vốn dịch vụ cung cấp là tổng chi phí phát sinh của dịch vụ cung cấp cho khách hàng
+    trong năm tài chính, được ghi nhận theo nguyên tắc phù hợp với doanh thu và nguyên
+    tắc thận trọng.
+
+2.20 Chi phí tài chính
+    Chi phí tài chính phản ánh những khoản chi phí hoạt động tài chính phát sinh trong năm
+    tài chính chủ yếu bao gồm các khoản lỗ do chênh lệch tỷ giá hối đoái.
+
+2.21 Chi phí bán hàng
+    Chi phí bán hàng phản ánh các chi phí thực tế phát sinh trong quá trình cung cấp dịch
+    vụ.
+
+15
+
+===== PAGE 3 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.22 Chi phí quản lý doanh nghiệp
+    Chi phí quản lý doanh nghiệp phản ánh các chi phí thực tế phát sinh trong quá trình quản
+    lý chung của Công ty.
+
+2.23 Thuế TNDN hiện hành và thuế TNDN hoãn lại
+    Thuế TNDN bao gồm toàn bộ số thuế thu nhập tính trên thu nhập chịu thuế TNDN. Chi
+    phí thuế TNDN bao gồm chi phí thuế TNDN hiện hành và chi phí thuế TNDN hoãn lại.
+    Thuế TNDN hiện hành là số thuế TNDN phải nộp hoặc thu hồi được tính trên thu nhập
+    chịu thuế và thuế suất thuế TNDN của năm tài chính hiện hành. Thuế TNDN hiện hành
+    và thuế TNDN hoãn lại được ghi nhận là thu nhập hay chi phí khi các giao dịch thuần hoặc
+    lỗ của năm tài chính phát sinh, ngoại trừ trường hợp thu nhập phát sinh từ một giao
+    dịch hoặc sự kiện được ghi nhận trực tiếp vào vốn chủ sở hữu trong cùng năm tài chính
+    hay một năm tài chính khác.
+    Thuế TNDN hoãn lại, sử dụng phương pháp công nợ, được tính đầy đủ, sử dụng phương
+    thức công nợ, tính trên các khoản chênh lệch tạm thời giữa giá trị ghi sổ của các khoản
+    mục tài sản và nợ phải trả trên báo cáo tài chính và cơ sở tính thuế thu nhập của các
+    khoản mục này. Thuế TNDN hoãn lại không được ghi nhận khi nợ thuế TNDN hoãn lại
+    phát trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả của một giao dịch
+    mà giao dịch này không phải giao dịch hợp nhất kinh doanh nghiệp, không có ảnh hưởng
+    đến lợi nhuận kế toán hoặc lợi nhuận/lỗ tính thuế TNDN tại thời điểm phát sinh giao dịch.
+    Thuế TNDN hoãn lại được tính theo thuế suất dự tính được áp dụng trong niên độ mà tài
+    sản được thu hồi hoặc khoản nợ phải trả được thanh toán dựa trên thuế suất đã ban
+    hành hoặc xem như có hiệu lực tại ngày của bảng cân đối kế toán.
+    Tài sản thuế TNDN hoãn lại được ghi nhận khi có khả năng sẽ có lợi nhuận tính thuế
+    trong tương lai để sử dụng những chênh lệch tạm thời được khấu trừ.
+
+2.24 Các bên liên quan
+    Doanh nghiệp, các cá nhân, trực tiếp hay gián tiếp qua một hoặc nhiều trung gian,
+    có quyền kiểm soát Công ty hoặc chịu sự kiểm soát của Công ty, hoặc cùng chung sự
+    kiểm soát với Công ty, bao gồm cả công ty mẹ, công ty con và công ty trong cùng tập
+    đoàn là các bên liên quan. Các bên liên kết, các cá nhân trực tiếp hoặc gián tiếp nắm
+    quyền biểu quyết của Công ty mà có ảnh hưởng đáng kể đối với Công ty, những cá nhân
+    quản lý chủ chốt bao gồm Hội đồng quản trị, Tổng Giám đốc, những thành viên mật thiết
+    trong gia đình của các cá nhân này hoặc các bên liên kết này hoặc những công ty liên
+    kết với các cá nhân này cũng được coi là bên liên quan.
+    Trong việc xem xét từng mối quan hệ của là các bên liên quan, Công ty cần cứ vào bản
+    chất của mối quan hệ chứ không chỉ hình thức pháp lý của các quan hệ đó.
+
+16
+
+===== PAGE 4 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+2 CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+2.25 Báo cáo bộ phận
+    Một bộ phận là một hợp phần có thể xác định riêng biệt của Công ty tham gia vào việc
+    bán hàng hoặc cung cấp dịch vụ liên quan (bộ phận chia theo hoạt động kinh doanh),
+    hoặc bán hàng hoặc cung cấp dịch vụ trong một môi trường kinh tế cụ thể (bộ phận chia
+    theo khu vực địa lý), hoặc bộ phận này chịu rủi ro và thu được lợi ích khác biệt so với các
+    bộ phận khác. Tổng Giám đốc của Công ty xác định rằng rủi ro và tỷ suất sinh lời của doanh
+    nghiệp bị tác động chủ yếu bởi những khác biệt về các loại dịch vụ mà Công ty cung cấp.
+    Do vậy báo cáo bộ phận chính yếu của Công ty là theo lĩnh vực kinh doanh.
+
+2.26 Ước tính kế toán trọng yếu
+    Việc lập báo cáo tài chính tuân thủ theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế
+    toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình
+    bày báo cáo tài chính yêu cầu Tổng Giám đốc phải có những ước tính và giả định ảnh
+    hưởng đến số liệu về tài sản, nợ phải trả và việc trình bày các khoản nợ và tài sản tiềm
+    tàng tại ngày kết thúc năm tài chính cũng như các số liệu về doanh thu và chi phí trong
+    suốt năm tài chính.
+    Các ước tính và giả định có ảnh hưởng trọng yếu trong báo cáo tài chính bao gồm:
+    *   Các khoản dự phòng phải thu khó đòi (Thuyết minh 2.6 và 7); và
+    *   Thời gian hữu dụng ước tính của TSCĐ (Thuyết minh 2.9).
+    Các ước tính và giả định thường xuyên được đánh giá dựa trên kinh nghiệm trong quá
+    khứ và các yếu tố khác, bao gồm các giả định trong tương lai có ảnh hưởng trọng yếu
+    tới báo cáo tài chính của Công ty và được Tổng Giám đốc đánh giá là hợp lý.
+
+3 TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+
+|               | 31.12.2024 VND | 31.12.2023 VND |
+| :------------ | :------------- | :------------- |
+| Tiền mặt      | 25.978.924     | 78.480.640     |
+| Tiền gửi ngân hàng | 23.224.458.703 | 26.956.685.285 |
+| Các khoản tương đương tiền (*) | 30.000.000.000 | 46.200.000.000 |
+|               | **53.250.437.627** | **73.235.164.925** |
+
+(*) Tại ngày 31 tháng 12 năm 2024, các khoản tương đương tiền bao gồm các khoản
+tiền gửi tiết kiệm bằng Đồng Việt Nam tại các ngân hàng thương mại có thời gian
+đáo hạn ban đầu trong vòng 3 tháng với mức lãi suất 0,2%/năm (tại ngày 31 tháng
+12 năm 2023: từ 0,2%/năm đến 0,5%/năm).
+
+17
+
+===== PAGE 5 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+4 ĐẦU TƯ TÀI CHÍNH
+
+(a) Đầu tư nắm giữ đến ngày đáo hạn
+
+|             | 31.12.2024      | 31.12.2023      |
+| :---------- | :-------------- | :-------------- |
+|             | Giá gốc VND     | Giá gốc VND     |
+| Ngắn hạn    |                 |                 |
+| Tiền gửi có kỳ hạn (*) | 763.020.228.533 | 664.944.688.963 |
+|             | **763.020.228.533** | **664.944.688.963** |
+
+(*) Tại ngày 31 tháng 12 năm 2024, các khoản tiền gửi tiết kiệm có kỳ hạn từ 6 đến 12
+tháng bằng Đồng là Mỹ và Đồng Việt Nam với mức lãi suất lần lượt là 0% và từ
+5,4%/năm đến 6,2%/năm (tại ngày 31 tháng 12 năm 2023: bằng Đồng là Mỹ và Đồng
+Việt Nam với mức lãi suất lần lượt là 0% và từ 5,2%/năm đến 7,6%/năm).
+
+(b) Đầu tư tài chính dài hạn
+
+|                                 | 31.12.24         | 31.12.23         |
+| :------------------------------ | :--------------- | :--------------- |
+|                                 | Giá gốc VND      | Giá gốc VND      |
+| Đầu tư góp vốn vào đơn vị khác  |                  |                  |
+| - Công ty Cổ phần Công nghệ Sen Đỏ (*) | 3.684.980.000 VND | 3.684.980.000 VND |
+|                                 | **3.684.980.000 VND** | **3.684.980.000 VND** |
+
+(*) Công ty sở hữu 3,29% tỷ lệ lợi ích và quyền biểu quyết trong Công ty Cổ phần
+Công nghệ Sen Đỏ tại ngày 31 tháng 12 năm 2024 và ngày 31 tháng 12 năm
+2023.
+Tại ngày 31 tháng 12 năm 2024 và ngày 31 tháng 12 năm 2023, Công ty chưa xác định
+được giá trị hợp lý của khoản đầu tư tài chính này để thuyết minh trên báo cáo tài chính
+vì khoản đầu tư này không có giá niêm yết trên thị trường chứng khoán. Giá trị hợp lý
+của các khoản đầu tư này có thể khác với giá trị ghi sổ.
+
+18
+
+===== PAGE 6 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+5 PHẢI THU NGẮN HẠN CỦA KHÁCH HÀNG
+
+|                  | 31.12.2024 VND  | 31.12.2023 VND   |
+| :--------------- | :-------------- | :--------------- |
+| Bên thứ ba       | 106.346.382.243 | 100.781.443.980  |
+| Bên liên quan (Thuyết minh 28(b)) | 2.530.442.199   | 3.405.879.282    |
+|                  | **108.876.824.442** | **104.187.323.262** |
+
+Tại ngày 31 tháng 12 năm 2024 và ngày 31 tháng 12 năm 2023, số dư các khoản phải
+thu ngắn hạn của khách hàng đã quá hạn thanh toán khó có khả năng thu hồi như đã
+trình bày tại Thuyết minh 7.
+Tại ngày 31 tháng 12 năm 2024 và ngày 31 tháng 12 năm 2023, không có khách hàng
+bên thứ ba nào có số dư chiếm hơn 10% trên tổng số dư các khoản phải thu ngắn hạn
+của khách hàng.
+
+6 PHẢI THU NGẮN HẠN KHÁC
+
+|                        | 31.12.2024       | 31.12.2023       |
+| :--------------------- | :--------------- | :--------------- |
+|                        | Giá trị VND      | Giá trị VND      |
+| Dự thu tiền gửi        | 8.710.000.000    | 8.160.000.000    |
+| Ký quỹ, ký cược        | 6.943.031.220    | 3.680.954.830    |
+| Khác                   | -                | 90.584.005       |
+|                        | **15.653.031.220** | **11.931.538.835** |
+
+19
+
+===== PAGE 7 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+7 DỰ PHÒNG PHẢI THU NGẮN HẠN KHÓ ĐÒI
+
+|                                                     | Tại ngày 31.12.2024 | Số đã nộp/phải nộp trong năm | Cần trừ         | Tại ngày 31.12.2023 |
+| :-------------------------------------------------- | :------------------ | :--------------------------- | :-------------- | :------------------ |
+|                                                     | Giá trị gốc VND     | Dự phòng VND                | Giá trị có thể thu hồi VND | Giá trị gốc VND | Dự phòng VND | Giá trị có thể thu hồi VND |
+| Tổng giá trị các khoản phải thu ngắn hạn quá hạn thanh toán khó có khả năng thu hồi | 17.427.880.095      | 258.538.831                  | 17.169.341.264 | 17.177.341.264 | 17.177.341.264 |
+| Trong đó chi tiết các đối tượng có số dư lớn hơn 10% và các công ty này đều quá hạn trên 1 năm: |                     |                              |                 |                 |              |                    |
+| - Công ty Cổ phần Property X                        | 4.702.787.555       | 4.702.787.555                |                 | 4.702.787.555   | 4.702.787.555 |                    |
+| - Công ty TNHH Ánh Dương                            | 2.971.318.115       | 2.971.318.115                |                 | 2.971.318.115   | 2.971.318.115 |                    |
+| - Công ty TNHH Kích Sách                            |                     |                              |                 |                 |              |                    |
+| Tổng giá trị các khoản phải thu ngắn hạn quá hạn thanh toán khó có khả năng thu hồi | 17.705.842.264      | 240.435.660                  | 17.465.406.604 | 17.555.136.604 | 17.555.136.604 |                    |
+| Trong đó chi tiết các đối tượng có số dư lớn hơn 10% và các công ty này đều quá hạn trên 1 năm: |                     |                              |                 |                 |              |                    |
+| - Công ty Cổ phần Property X                        | 5.205.844.500       | 5.205.844.500                |                 | 5.205.844.500   | 5.205.844.500 |                    |
+| - Công ty TNHH Ánh Dương                            | 2.971.318.115       | 2.971.318.115                |                 | 2.971.318.115   | 2.971.318.115 |                    |
+| - Công ty TNHH Kích Sách                            |                     |                              |                 |                 |              |                    |
+
+20
+
+===== PAGE 8 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+8 CHI PHÍ TRẢ TRƯỚC
+
+(a) Ngắn hạn
+
+|                     | 31.12.2024 VND | 31.12.2023 VND |
+| :------------------ | :------------- | :------------- |
+| Chi phí thuê hoạt động | 2.752.081.985  | 2.494.248.750  |
+|                     | **2.752.081.985** | **2.494.248.750** |
+
+(b) Dài hạn
+
+|                       | 31.12.2024 VND | 31.12.2023 VND |
+| :-------------------- | :------------- | :------------- |
+| Chi phí thuê văn phòng (*) | 35.460.511.949 | 37.577.557.421 |
+| Công cụ, dụng cụ        | 3.236.208.753  | 5.103.080.175  |
+| Khác                  | 5.069.919.413  | 7.319.648.363  |
+|                       | **43.766.640.115** | **50.000.285.959** |
+
+(*) Chi phí thuê văn phòng dài hạn là số tiền còn lại của khoản tiền Công ty đã trả cho
+Công ty TNHH Một thành viên Viễn thông FPT Tân Thuận để thuê văn phòng cho
+giai đoạn từ năm 2018 đến năm 2041 theo Hợp đồng số 02-2013/FTTG2-FO ngày
+01 tháng 11 năm 2013. Tiền thuê văn phòng trả trước này được phân bổ vào chi
+phí theo thời gian thuê.
+
+9 TÀI SẢN CỐ ĐỊNH ("TSCĐ")
+
+(a) TSCĐ hữu hình
+
+|                       | Máy móc thiết bị VND | Thiết bị quản lý VND | Tổng cộng VND |
+| :-------------------- | :------------------ | :------------------ | :------------ |
+| **Nguyên giá**        |                     |                     |               |
+| Tại ngày 1 tháng 1 năm 2024 | 143.429.743       | 93.868.632.595      | 94.012.062.338 |
+| Xóa sổ                |                     | (165.316.636)       | (165.316.636) |
+| Tại ngày 31 tháng 12 năm 2024 | 143.429.743       | 93.703.315.959      | 93.846.745.702 |
+| **Khấu hao lũy kế**   |                     |                     |               |
+| Tại ngày 1 tháng 1 năm 2024 | 143.429.743       | 84.964.386.315      | 85.108.016.058 |
+| Khấu hao trong năm     |                     | 3.407.127.492       | 3.407.127.492 |
+| Xóa sổ                |                     | (165.316.636)       | (165.316.636) |
+| Tại ngày 31 tháng 12 năm 2024 | 143.429.743       | 88.206.397.171      | 88.349.826.914 |
+| **Giá trị còn lại**   |                     |                     |               |
+| Tại ngày 1 tháng 1 năm 2024 |                   | 8.904.046.280       | 8.904.046.280 |
+| Tại ngày 31 tháng 12 năm 2024 |                   | 5.496.918.788       | 5.496.918.788 |
+
+21
+
+===== PAGE 9 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+9 TÀI SẢN CỐ ĐỊNH ("TSCĐ") (tiếp theo)
+
+(a) TSCĐ hữu hình (tiếp theo)
+    Nguyên giá của TSCĐ hữu hình của Công ty đã khấu hao hết nhưng vẫn còn sử dụng
+    với giá trị là 78.504.994.907 Đồng tại ngày 31 tháng 12 năm 2024 và 76.744.291.800
+    Đồng tại ngày 31 tháng 12 năm 2023.
+
+(b) TSCĐ vô hình
+
+|                       | Bản quyền, bằng sáng chế VND |
+| :-------------------- | :--------------------------- |
+| **Nguyên giá**        |                              |
+| Tại ngày 1 tháng 1 năm 2024 | 476.000.000                  |
+| Mua trong năm          | 88.000.000                   |
+| Xóa sổ                | (476.000.000)                |
+| Tại ngày 31 tháng 12 năm 2024 | **98.000.000**               |
+| **Khấu hao lũy kế**   |                              |
+| Tại ngày 1 tháng 1 năm 2024 | 40.427.397                   |
+| Khấu hao trong năm     | 157.978.140                  |
+| Xóa sổ                | (198.227.031)                |
+| Tại ngày 31 tháng 12 năm 2024 | **178.506**                  |
+| **Giá trị còn lại**   |                              |
+| Tại ngày 1 tháng 1 năm 2024 | **435.572.603**              |
+| Tại ngày 31 tháng 12 năm 2024 | **97.821.494**               |
+
+10 PHẢI TRẢ NGƯỜI BÁN NGẮN HẠN
+
+|                                 | 31.12.2024      | 31.12.2023      |
+| :------------------------------ | :-------------- | :-------------- |
+|                                 | Số có khả năng trả nợ VND | Số có khả năng trả nợ VND |
+| Bên thứ ba:                     |                 |                 |
+| - Công ty TNHH                  | 5.382.384.815   | 4.515.441.182   |
+| Vinmedia Toàn cầu               | 5.382.384.815   | 4.515.441.182   |
+| - Công ty TNHH Key              |                 |                 |
+| Power Việt Nam                  | 2.400.256.800   | 2.201.812.200   |
+| - Khác                          | 8.346.452.121   | 7.484.003.745   |
+| Bên liên quan                   |                 |                 |
+| (Thuyết minh 28(b))             | 2.973.890.239   | 2.525.451.201   |
+|                                 | **19.102.983.975** | **16.726.708.328** |
+
+22
+
+===== PAGE 10 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+11 NGƯỜI MUA TRẢ TIỀN TRƯỚC NGẮN HẠN
+
+|                                 | 31.12.2024 VND  | 31.12.2023 VND  |
+| :------------------------------ | :-------------- | :-------------- |
+| Bên thứ ba:                     |                 |                 |
+| - Công ty TNHH Vinmedia Toàn cầu | 9.586.372.933   | 1.115.362.608   |
+| - Công ty TNHH Rich Media       | 8.167.875.050   | 10.762.164.508  |
+| - Công ty TNHH Truyền thông Mộc Cát | 1.944.209.962   | 9.968.416.945   |
+| - Khác                          | 19.500.305.025  | 15.370.862.916  |
+|                                 | **38.698.862.920** | **36.220.906.975** |
+
+23
+
+===== PAGE 11 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+12 THUẾ VÀ CÁC KHOẢN PHẢI THU/PHẢI NỘP NHÀ NƯỚC
+Biến động về thuế và các khoản phải thu/phải nộp nhà nước như sau:
+
+|                           | Tại ngày 31.12.2024 VND | Số đã nộp/phải nộp trong năm VND | Cần trừ VND        | Tại ngày 31.12.2024 VND |
+| :------------------------ | :---------------------- | :------------------------------- | :----------------- | :---------------------- |
+| **(a) Phải thu**          |                         |                                  |                    |                         |
+| Thuế GTGT được khấu trừ | 2.754.004.424           | 56.589.874.034                   | 34.124.310.851     |                         |
+| **(b) Phải nộp**          |                         |                                  |                    |                         |
+| Thuế GTGT                 | 14.868.627.020          | 33.708.711.049                   | 34.124.310.851     | 18.164.030.381          |
+| Thuế TNDN                 |                         |                                  | (34.124.310.851)   |                         |
+| Thuế thu nhập cá nhân     | 739.784.378             | 8.776.747.508                    | (4.738.198.475)    | 99.298.609.101          |
+| Thuế nhà thầu             |                         |                                  | (8.547.057.678)    |                         |
+| Các loại thuế khác        | 813.761                 | 218.959.088                      | (218.478.740)      | 10.078.361.781          |
+|                           |                         |                                  | (7.317.422)        |                         |
+
+24
+
+===== PAGE 12 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+13 PHẢI TRẢ NGƯỜI LAO ĐỘNG
+    Tại thời điểm ngày 31 tháng 12 năm 2024 và ngày 31 tháng 12 năm 2023, số dư phải trả
+    người lao động phản ánh nghĩa vụ chi trả lương, thưởng đối với người lao động.
+
+14 CHI PHÍ PHẢI TRẢ NGẮN HẠN
+
+|                                 | 31.12.2024 VND | 31.12.2023 VND |
+| :------------------------------ | :------------- | :------------- |
+| Chi phí tổ chức sự kiện và triển khai dự án | 6.226.130.000  | 2.976.370.111  |
+| Khác                            | 240.000.000    | 57.000.000     |
+|                                 | **6.466.130.000** | **3.033.370.111** |
+
+15 QUỸ KHEN THƯỞNG VÀ PHÚC LỢI
+
+|                                     | 31.12.2024 VND | 31.12.2023 VND |
+| :---------------------------------- | :------------- | :------------- |
+| Số dư đầu năm                       | 60.512.447.176 | 90.366.569.998 |
+| Trích lập từ LNST chưa phân phối    |                |                |
+| (Thuyết minh 17)                    | 13.282.803.443 | 11.842.927.178 |
+| Tăng khác                           | -              | 80.000.000     |
+| Sử dụng quỹ                         | (34.645.800.000) | (41.757.050.000) |
+| Số dư cuối năm                      | **39.149.450.619** | **60.512.447.176** |
+
+16 VỐN GÓP CỦA CHỦ SỞ HỮU
+
+(a) Số lượng cổ phiếu
+
+|                               | 31.12.2024       | 31.12.2023       |
+| :---------------------------- | :--------------- | :--------------- |
+|                               | Cổ phiếu phổ thông | Cổ phiếu phổ thông |
+| Số lượng cổ phiếu đăng ký     | 18.471.275       | 18.471.275       |
+| Số lượng cổ phiếu đã phát hành | 18.471.275       | 18.471.275       |
+| Số lượng cổ phiếu đã mua lại  | (51.391)         | (51.391)         |
+| Số lượng cổ phiếu đang lưu hành | **18.419.884**   | **18.419.884**   |
+
+25
+
+===== PAGE 13 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+16 VỐN GÓP CỦA CHỦ SỞ HỮU (tiếp theo)
+
+(b) Chi tiết vốn góp của chủ sở hữu
+
+|                                 | 31.12.2024      |             | 31.12.2023      |             |
+| :------------------------------ | :-------------- | :---------- | :-------------- | :---------- |
+|                                 | Cổ phiếu phổ thông | %           | Cổ phiếu phổ thông | %           |
+| Công ty Cổ phần Viễn thông FPT  | 10.409.697      | 56,51       | 10.409.697      | 56,51       |
+| Công ty Cổ phần FPT             | 4.394.690       | 23,86       | 4.394.690       | 23,86       |
+| Các cổ đông khác                | 3.615.497       | 19,63       | 3.615.497       | 19,63       |
+| Số lượng cổ phiếu đang lưu hành | **18.419.884**  | **100,00**  | **18.419.884**  | **100,00**  |
+
+(c) Tình hình biến động của vốn cổ phần
+
+|                             | Số cổ phiếu | Cổ phiếu phổ thông VND | Cổ phiếu quỹ VND | Tổng cộng VND |
+| :-------------------------- | :---------- | :--------------------- | :---------------- | :------------- |
+| Tại ngày 1 tháng 1 năm 2023 | 18.419.884  | 184.712.750.000        | (721.035.000)     | 183.991.715.000 |
+| Tại ngày 31 tháng 12 năm 2023 | 18.419.884  | 184.712.750.000        | (721.035.000)     | 183.991.715.000 |
+| Tại ngày 31 tháng 12 năm 2024 | 18.419.884  | 184.712.750.000        | (721.035.000)     | 183.991.715.000 |
+
+Mệnh giá cổ phiếu: 10.000 Đồng trên một cổ phiếu.
+Công ty không có cổ phiếu ưu đãi.
+
+26
+
+===== PAGE 14 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+17 TÌNH HÌNH TĂNG GIẢM NGUỒN VỐN CHỦ SỞ HỮU
+
+|                         | Vốn góp chủ sở hữu VND | Thặng dư vốn cổ phần VND | Cổ phiếu quỹ VND | LNST chưa phân phối VND | Tổng cộng VND |
+| :---------------------- | :-------------------- | :----------------------- | :---------------- | :---------------------- | :------------ |
+| Tại ngày 1 tháng 1 năm 2023 | 184.712.750.000     |                          |                   | 492.433.862.231         | 712.634.300.876 |
+| Lợi nhuận thuần trong năm |                       |                          |                   | 122.256.353.479         | 122.256.353.479 |
+| Chia cổ tức bằng tiền   |                       |                          |                   | (92.099.420.000)        | (92.099.420.000) |
+| Trích Quỹ khen thưởng, phúc lợi |                 |                          |                   | (11.842.927.178)        | (11.842.927.178) |
+| **Tổng**                |                       |                          |                   | **510.747.868.532**     |               |
+| Tại ngày 31 tháng 12 năm 2023 | 184.712.750.000     |                          |                   | 132.828.034.428         | 730.948.307.177 |
+| Lợi nhuận thuần trong năm |                       |                          |                   | (36.839.768.000)        | (36.839.768.000) |
+| Chia cổ tức bằng tiền (**) |                      |                          |                   |                         |               |
+| Trích Quỹ khen thưởng, phúc lợi (*) |              |                          |                   | (13.282.803.443)        | (13.282.803.443) |
+| **Tổng**                |                       |                          |                   | **593.453.351.517**     |               |
+| Tại ngày 31 tháng 12 năm 2024 | 184.712.750.000     | 39.208.703.645           | (721.035.000)     |                         | 813.683.770.162 |
+
+(*) Theo Nghị quyết tại ngày 28 tháng 6 năm 2024, Đại hội đồng Cổ đông của Công ty đã phê duyệt tỷ lệ chia cổ tức bằng tiền mặt cho
+năm 2023 là 20% trên mệnh giá cổ phiếu đang lưu hành, khoản cổ tức này đã được công bố theo tờ thông báo số 03-2024/FC-TB
+ngày 3 tháng 7 năm 2024 của Hội đồng quản trị, và đã được chi trả 36.839.515.500 Đồng.
+(**) Công ty tạm trích Quỹ khen thưởng, phúc lợi từ LNST chưa phân phối của năm tài chính kết thúc ngày 31 tháng 12 năm 2024 theo
+Quyết định số 79-2024/QĐ-IFO ngày 31 tháng 12 năm 2024 của Hội đồng quản trị của Công ty với tỷ lệ trích quỹ khen thưởng, phúc
+lợi là 10% LNST (tương đương 13.282.803.443 Đồng).
+
+27
+
+===== PAGE 15 =====
+CÔNG TY CỔ PHẦN DỊCH VỤ TRỰC TUYẾN FPT
+Mẫu số B 09 – DN
+
+18 LÃI CƠ BẢN TRÊN CỔ PHIẾU
+
+(a) Lãi cơ bản trên cổ phiếu
+    Lãi cơ bản trên cổ phiếu được tính bằng hiệu của số lợi nhuận thuần phân bổ cho các cổ
+    đông và số trích quỹ khen thưởng, phúc lợi chia cho số lượng bình quân gia quyền của
+    số cổ phiếu phổ thông đang lưu hành trong năm tài chính, điều chỉnh cho cổ phiếu thường
+    phát hành trong năm tài chính trừ đi cổ phiếu quỹ. Chi tiết như sau:
+
+|                                     | 31.12.2024       | 31.12.2023       |
+| :---------------------------------- | :--------------- | :--------------- |
+| Lợi nhuận thuần phân bổ cho các cổ đông (VND) | 132.828.034.428  | 122.256.353.479  |
+| Điều chỉnh giảm số trích quỹ khen thưởng, |                |                |
+| phúc lợi (VND)                      | (13.282.803.443) | (11.842.927.178) |
+|                                     | **119.545.230.985** | **110.413.426.301** |
+
+|                                       | 31.12.2024       | 31.12.2023       |
+| :------------------------------------ | :--------------- | :--------------- |
+| Bình quân số cổ phiếu phổ thông đang lưu hành | 18.419.884       | 18.419.884       |
+| (cổ phiếu)                             |                  |                  |
+| Lãi cơ bản trên mỗi cổ phiếu (VND)     | **6.490**        | **5.994**        |
+
+(b) Lãi suy giảm trên cổ phiếu
+    Công ty không có cổ phiếu phổ thông tiềm tăng có tác động suy giảm trong năm tài chính
+    và đến ngày lập báo cáo tài chính này. Do đó, lãi suy giảm trên cổ phiếu bằng với lãi cơ
+    bản trên cổ phiếu.
+
+19 CÁC KHOẢN MỤC NGOÀI BẢNG CÂN ĐỐI KẾ TOÁN
+
+(a) Ngoại tệ các loại
+    Tại ngày 31 tháng 12 năm 2024, khoản mục tiền và các khoản tương đương tiền đã bao
+    gồm số ngoại tệ là 24.794.50 Đồng là Mỹ (tại ngày 31 tháng 12 năm 2023: 28.803,02 Đồng là
+    Mỹ).
+
+(b) Tài sản thuê hoạt động
+    Tổng số tiền thuê tối thiểu có thể thu trong tương lai của hợp đồng cho thuê hoạt động
+    tài sản không hủy ngang được trình bày tại Thuyết minh 29(b).
+
+(c) Nợ khó đòi đã xử lý
+
+|                           | 31.12.2024 VND | 31.12.2023 VND |
+| :------------------------ | :------------- | :------------- |
+| Tạp chí Thế giới Vi tính | 2.356.691.181  | 2.356.691.181  |
+| Khác                      | 3.556.473.997  | 3.556.473.997  |
+| Số dư cuối năm            | **5.913.165.178** | **5.913.165.178** |
+
+28

@@ -1,0 +1,24 @@
+===== PAGE 1 =====
+
+CHI TIET GIAO DICH TAI KHOAN KHACH HANG
+
+Tu ngay: 01/05/2025 den ngay: 01/06/2025
+
+Khach hang: CÔNG TY FPT
+
+Tai khoan: 012345678900 - VND - TAI KHOAN THANH TOAN
+
+| Ngay | So Ref | Noi dung | Ghi No | Ghi Co | So Du |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 03/06/2025 | 200001 | Thu tien du an B | | 1,500,000,000 | 10,500,000,000 |
+| 06/06/2025 | 200002 | Chi phi nhan su | 2,200,000,000 | | 8,300,000,000 |
+| 10/06/2025 | 200003 | Thanh toan dich vu van phong | 300,000,000 | | 8,000,000,000 |
+| 15/06/2025 | 200004 | Thu lai ngan hang | | 150,000,000 | 8,150,000,000 |
+| 20/06/2025 | 200005 | Tra tien bao tri he thong | 450,000,000 | | 7,700,000,000 |
+| 25/06/2025 | 200006 | Thu tu khach hang C | | 2,000,000,000 | 9,700,000,000 |
+| 01/07/2025 | 200007 | Tra luong nhan vien | 3,000,000,000 | | 6,700,000,000 |
+| 05/07/2025 | 200008 | Thanh toan dich vu bao ve | 200,000,000 | | 6,500,000,000 |
+| 15/07/2025 | 200009 | Thu du an E | | 1,800,000,000 | 8,300,000,000 |
+| 30/07/2025 | 200010 | Chi hoat dong marketing | 800,000,000 | | 7,500,000,000 |
+
+Page 1
